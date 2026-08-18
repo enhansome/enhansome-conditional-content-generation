@@ -120,7 +120,7 @@ Stanford University, ECCV 2022, [\[Code\]](https://github.com/y-zheng18/GIMO) �
 Tel Aviv University, ECCV 2022, [\[Code\]](https://github.com/GuyTevet/MotionCLIP) ⭐ 500 | 🐛 23 | 🌐 Python | 📅 2023-12-18
 
 [Generating Diverse and Natural 3D Human Motions from Text](https://ericguo5513.github.io/text-to-motion/) \
-University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 712 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 713 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://hongfz16.github.io/projects/AvatarCLIP.html) \
 NTU, SIGGRAPH 2022, [\[Code\]](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,100 | 🐛 19 | 🌐 Python | 📅 2023-02-15
@@ -197,7 +197,7 @@ UIUC, ICCV 2023, [\[Code\]](https://github.com/Sirui-Xu/InterDiff) ⭐ 286 | �
 UIUC, ICLR 2023 (Spotlight), [\[Code\]](https://github.com/Sirui-Xu/DuMMF) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2023-09-01
 
 [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://lhchen.top/Human-MAC/)\
-Tsinghua University, ICCV 2023, [\[Code\]](https://github.com/LinghaoChan/HumanMAC) ⭐ 325 | 🐛 5 | 🌐 Python | 📅 2024-05-05
+Tsinghua University, ICCV 2023, [\[Code\]](https://github.com/LinghaoChan/HumanMAC) ⭐ 326 | 🐛 5 | 🌐 Python | 📅 2024-05-05
 
 [BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://barquerogerman.github.io/BeLFusion/) \
 University of Barcelona, 25 Nov 2022, [\[Upcoming Code\]](https://github.com/BarqueroGerman/BeLFusion) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2023-10-09
@@ -254,9 +254,9 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,367 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,368 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,068 | 🐛 460 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,076 | 🐛 460 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
