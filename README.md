@@ -256,7 +256,7 @@ Adobe Research, 28 May 2020
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,364 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,075 | 🐛 460 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,077 | 🐛 460 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -325,7 +325,7 @@ Meta AI, 2023, [\[Code\]](https://github.com/Make-A-Video3D/Make-A-Video3D.githu
 Runway, 6 Feb 2023
 
 [Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths](https://yingqinghe.github.io/LVDM/) \
-The Hong Kong University of Science and Technology, 23 Nov 2022, [\[Upcoming Code\]](https://github.com/YingqingHe/LVDM) ⭐ 503 | 🐛 18 | 🌐 Python | 📅 2024-11-16
+The Hong Kong University of Science and Technology, 23 Nov 2022, [\[Upcoming Code\]](https://github.com/YingqingHe/LVDM) ⭐ 505 | 🐛 18 | 🌐 Python | 📅 2024-11-16
 
 [MagicVideo: Efficient Video Generation With Latent Diffusion Models](https://magicvideo.github.io/) \
 ByteDance Inc, 20 Nov 2022
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
