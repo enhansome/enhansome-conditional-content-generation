@@ -1,7 +1,858 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Taming Diffusion Models for Music-driven Conducting Motion Generation",
+              "description": "NUS, AAAI 2023 Summer Symposium, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629415056,
+                "language": "Python",
+                "last_commit": "2024-05-09T04:26:13Z",
+                "owner": "viiika",
+                "repo": "Diffusion-Conductor",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation",
+              "description": "Illinois Institute of Technology, ICLR'23, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 485390725,
+                "language": "Python",
+                "last_commit": "2023-04-05T14:03:25Z",
+                "owner": "L-YeZhu",
+                "repo": "CDCD",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Brand New Dance Partner: Music-Conditioned Pluralistic Dancing Controlled by Multiple Dance Genres",
+              "description": "Yonsei University, CVPR 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460310572,
+                "language": "Python",
+                "last_commit": "2022-07-06T05:49:47Z",
+                "owner": "jw09191",
+                "repo": "MNET",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory",
+              "description": "NTU, CVPR 2022 (Oral), [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472203444,
+                "language": "Python",
+                "last_commit": "2023-12-07T16:37:46Z",
+                "owner": "lisiyao21",
+                "repo": "Bailando",
+                "stars": 437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AI Choreographer: Music Conditioned 3D Dance Generation with AIST++",
+              "description": "USC, ICCV 2021, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 368958866,
+                "language": "Python",
+                "last_commit": "2022-03-02T09:06:52Z",
+                "owner": "google-research",
+                "repo": "mint",
+                "stars": 563
+              }
+            }
+          ],
+          "description": "Music-Driven Group Choreography AIOZ AI, CVPR'23\nMagic: Multi Art Genre Intelligent Choreography Dataset and Network for 3D Dance Generation Tsinghua University, 7 Dec 2022\nPretrained Diffusion Models for Unified Human Motion Synthesis DAMO Academy, Alibaba Group, 6 Dec 2022\nEDGE: Editable Dance Generation From Music Stanford University, 19 Nov 2022\nYou Never Stop Dancing: Non-freezing Dance Generation via Bank-constrained Manifold Projection MSRA, NeurIPS'22\nGroupDancer: Music to Multi-People Dance Synthesis with Style Collaboration Tsinghua University, ACMMM'22\nDance Style Transfer with Cross-modal Transformer KTH, 22 Aug 2022, [Upcoming Code]\nMusic-driven Dance Regeneration with Controllable Key Pose Constraints Tencent, 8 July 2022",
+          "node_type": "group",
+          "title": "Music-Driven motion generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model",
+              "description": "NTU, CVPR'23, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622234196,
+                "language": "Python",
+                "last_commit": "2024-04-22T00:57:00Z",
+                "owner": "MotrixLab",
+                "repo": "ReMoDiffuse",
+                "stars": 380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Human Motion Diffusion as a Generative Prior",
+              "description": "Anonymous Authors, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608261664,
+                "language": "Python",
+                "last_commit": "2026-04-21T00:27:45Z",
+                "owner": "priorMDM",
+                "repo": "priorMDM",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations",
+              "description": "Tencent AI Lab, 16 Jan 2023, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588533284,
+                "language": "Python",
+                "last_commit": "2024-09-17T14:19:55Z",
+                "owner": "Mael-zys",
+                "repo": "T2M-GPT",
+                "stars": 773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Executing your Commands via Motion Diffusion in Latent Space",
+              "description": "Tencent, 8 Dec 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575661063,
+                "language": "Python",
+                "last_commit": "2023-07-11T04:00:32Z",
+                "owner": "ChenFengYe",
+                "repo": "motion-latent-diffusion",
+                "stars": 746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels",
+              "description": "Seoul National University, AAAI 2023 Oral, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589480565,
+                "language": "Python",
+                "last_commit": "2023-01-19T04:25:56Z",
+                "owner": "TaeryungLee",
+                "repo": "MultiAct_RELEASE",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionBERT: Unified Pretraining for Human Motion Analysis",
+              "description": "SenseTime Research, 12 Oct 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 487855941,
+                "language": "Python",
+                "last_commit": "2026-03-14T07:57:31Z",
+                "owner": "Walter0807",
+                "repo": "MotionBERT",
+                "stars": 1437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Human Motion Diffusion Model",
+              "description": "Tel Aviv University, 3 Oct 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543082997,
+                "language": "Python",
+                "last_commit": "2025-10-01T00:29:26Z",
+                "owner": "GuyTevet",
+                "repo": "motion-diffusion-model",
+                "stars": 4092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model",
+              "description": "NTU, 22 Aug 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532145731,
+                "language": "Python",
+                "last_commit": "2024-07-19T21:25:48Z",
+                "owner": "MotrixLab",
+                "repo": "MotionDiffuse",
+                "stars": 980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TEMOS: Generating diverse human motions from textual descriptions",
+              "description": "MPI, ECCV 2022 (Oral), [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 487791649,
+                "language": "Python",
+                "last_commit": "2023-12-13T18:39:05Z",
+                "owner": "Mathux",
+                "repo": "TEMOS",
+                "stars": 454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GIMO: Gaze-Informed Human Motion Prediction in Context",
+              "description": "Stanford University, ECCV 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512451174,
+                "language": "Python",
+                "last_commit": "2022-12-16T03:16:15Z",
+                "owner": "y-zheng18",
+                "repo": "GIMO",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionCLIP: Exposing Human Motion Generation to CLIP Space",
+              "description": "Tel Aviv University, ECCV 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469639200,
+                "language": "Python",
+                "last_commit": "2023-12-18T15:17:15Z",
+                "owner": "GuyTevet",
+                "repo": "MotionCLIP",
+                "stars": 500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generating Diverse and Natural 3D Human Motions from Text",
+              "description": "University of Alberta, CVPR 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469479246,
+                "language": "Python",
+                "last_commit": "2024-08-18T00:21:07Z",
+                "owner": "EricGuo5513",
+                "repo": "text-to-motion",
+                "stars": 715
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars",
+              "description": "NTU, SIGGRAPH 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488129853,
+                "language": "Python",
+                "last_commit": "2023-02-15T12:46:00Z",
+                "owner": "hongfz16",
+                "repo": "AvatarCLIP",
+                "stars": 1100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents",
+              "description": "University of Maryland,, VR 2021, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251157042,
+                "language": "Python",
+                "last_commit": "2021-11-16T15:10:20Z",
+                "owner": "UttaranB127",
+                "repo": "Text2Gestures",
+                "stars": 31
+              }
+            }
+          ],
+          "description": "TEMOS: Generating diverse human motions from textual descriptions ENPC, CVPR'23\nGestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents Peking University, CVPR'23\nModiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models Beihang University, 10 Jan 2023\nMoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis Max Planck Institute for Informatics, 8 Dec 2022\nExecuting your Commands via Motion Diffusion in Latent Space Tencent PCG, 8 Dec 2022, [Upcoming Code]\nUDE: A Unified Driving Engine for Human Motion Generation Xiaobing Inc, 29 Nov 2022, [Upcoming Code]\nFLAME: Free-form Language-based Motion Synthesis & Editing Korea University, 1 Sep 2022",
+          "node_type": "group",
+          "title": "Text-Driven motion generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation",
+              "description": "NTU, CVPR'23, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612845360,
+                "language": "Python",
+                "last_commit": "2026-03-18T08:59:16Z",
+                "owner": "Advocate99",
+                "repo": "DiffGesture",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis",
+              "description": "Zhejiang University, ICLR'23, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597040690,
+                "language": "Python",
+                "last_commit": "2024-10-18T09:10:07Z",
+                "owner": "yerfor",
+                "repo": "GeneFace",
+                "stars": 2657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech",
+              "description": "York University, 23 Sep 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538686235,
+                "language": "Python",
+                "last_commit": "2023-08-16T12:50:43Z",
+                "owner": "ubisoft",
+                "repo": "ubisoft-laforge-ZeroEGGS",
+                "stars": 427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis",
+              "description": "The University of Tokyo, ECCV 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736239610,
+                "language": null,
+                "last_commit": "2025-06-26T11:53:51Z",
+                "owner": "PantoMatrix",
+                "repo": "BEAT",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model",
+              "description": "Nanjing University, SIGGRAPH 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 521374751,
+                "language": "Python",
+                "last_commit": "2023-04-28T12:39:11Z",
+                "owner": "jixinya",
+                "repo": "EAMM",
+                "stars": 201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation",
+              "description": "The Chinese University of Hong Kong, CVPR 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471211488,
+                "language": "Python",
+                "last_commit": "2023-03-16T09:02:44Z",
+                "owner": "alvinliu0",
+                "repo": "HA2G",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SEEG: Semantic Energized Co-speech Gesture Generation",
+              "description": "Alibaba DAMO Academy, CVPR 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466992154,
+                "language": "Python",
+                "last_commit": "2022-12-03T11:14:13Z",
+                "owner": "akira-l",
+                "repo": "SEEG",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FaceFormer: Speech-Driven 3D Facial Animation with Transformers",
+              "description": "The University of Hong Kong, CVPR 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467406547,
+                "language": "Python",
+                "last_commit": "2023-08-22T18:14:18Z",
+                "owner": "EvelynFan",
+                "repo": "FaceFormer",
+                "stars": 917
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Freeform Body Motion Generation from Speech",
+              "description": "JD AI Research, 4 Mar 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418147751,
+                "language": "Python",
+                "last_commit": "2022-11-12T03:56:58Z",
+                "owner": "TheTempAccount",
+                "repo": "Co-Speech-Motion-Generation",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders",
+              "description": "Tencent AI Lab, ICCV 2021, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393409701,
+                "language": "Python",
+                "last_commit": "2024-01-01T23:52:33Z",
+                "owner": "JingLi513",
+                "repo": "Audio2Gestures",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Individual Styles of Conversational Gesture",
+              "description": "UC Berkeley, CVPR 2019, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179192868,
+                "language": "Python",
+                "last_commit": "2024-03-06T19:07:58Z",
+                "owner": "amirbar",
+                "repo": "speech2gesture",
+                "stars": 394
+              }
+            }
+          ],
+          "description": "For more recent paper, you can find from here\nDiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model Macau University of Science and Technolog, 24 Jan 2023\nDiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis Tsinghua University, 10 Jan 2023\nDiffused Heads: Diffusion Models Beat GANs on Talking-Face Generation University of Wrocław, 6 Jan 2023, [Incoming Code]\nGenerating Holistic 3D Human Motion from Speech Max Planck Institute for Intelligent Systems, 8 Dev 2022\nAudio-Driven Co-Speech Gesture Video Generation NTU, 5 Dec 2022\nListen, denoise, action! Audio-driven motion synthesis with diffusion models KTH Royal Institute of Technology, 17 Nov 2022\nLearning Speech-driven 3D Conversational Gestures from Video Max Planck Institute for Informatics, IVA 2021, [Code]",
+          "node_type": "group",
+          "title": "Audio-Driven motion generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion",
+              "description": "UIUC, ICCV 2023, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685779821,
+                "language": "Python",
+                "last_commit": "2025-03-26T01:53:08Z",
+                "owner": "Sirui-Xu",
+                "repo": "InterDiff",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stochastic Multi-Person 3D Motion Forecasting",
+              "description": "UIUC, ICLR 2023 (Spotlight), [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608446984,
+                "language": "Python",
+                "last_commit": "2023-09-01T01:59:00Z",
+                "owner": "Sirui-Xu",
+                "repo": "DuMMF",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HumanMAC: Masked Motion Completion for Human Motion Prediction",
+              "description": "Tsinghua University, ICCV 2023, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598705038,
+                "language": "Python",
+                "last_commit": "2024-05-05T21:06:49Z",
+                "owner": "LinghaoChan",
+                "repo": "HumanMAC",
+                "stars": 326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diverse Human Motion Prediction Guided by Multi-Level Spatial-Temporal Anchors",
+              "description": "UIUC, ECCV 2022 (Oral), [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477195226,
+                "language": "Python",
+                "last_commit": "2023-03-19T01:04:48Z",
+                "owner": "Sirui-Xu",
+                "repo": "STARS",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting",
+              "description": "NAVER LABS, ECCV'2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543521932,
+                "language": "Python",
+                "last_commit": "2022-10-18T08:02:01Z",
+                "owner": "naver",
+                "repo": "PoseGPT",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NeMF: Neural Motion Fields for Kinematic Animation",
+              "description": "Yale University, NeurIPS 2022 (Spotlight), [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 563067605,
+                "language": "Python",
+                "last_commit": "2026-07-11T00:02:44Z",
+                "owner": "c-he",
+                "repo": "NeMF",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Person Extreme Motion Prediction",
+              "description": "Inria University, CVPR 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435884925,
+                "language": "Python",
+                "last_commit": "2022-03-10T13:07:51Z",
+                "owner": "GUO-W",
+                "repo": "MultiMotion",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionMixer: MLP-based 3D Human Body Pose Forecasting",
+              "description": "Mercedes-Benz, IJCAI 2022 (Oral), [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 487667053,
+                "language": "Python",
+                "last_commit": "2022-09-22T16:28:17Z",
+                "owner": "MotionMLP",
+                "repo": "MotionMixer",
+                "stars": 50
+              }
+            }
+          ],
+          "description": "For more recent more, you can find from here\nBeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction University of Barcelona, 25 Nov 2022, [Upcoming Code]\nMulti-Person 3D Motion Prediction with Multi-Range Transformers UCSD, NeurIPS 2021",
+          "node_type": "group",
+          "title": "Human motion prediction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scene Synthesis from Human Motion",
+              "description": "Stanford University, SIGGRAPH Asia 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582744730,
+                "language": "Python",
+                "last_commit": "2024-10-03T00:43:19Z",
+                "owner": "onestarYX",
+                "repo": "summon",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TEACH: Temporal Action Compositions for 3D Humans",
+              "description": "MPI, 3DV 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522083433,
+                "language": "Python",
+                "last_commit": "2025-11-05T14:34:25Z",
+                "owner": "atnikos",
+                "repo": "teach",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conditional Motion In-betweening",
+              "description": "Korea University, 6 Oct 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365982614,
+                "language": "Python",
+                "last_commit": "2024-04-25T15:32:50Z",
+                "owner": "jihoonerd",
+                "repo": "Conditional-Motion-In-Betweening",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transformer based Motion In-betweening",
+              "description": "National Institute of Technology - Tiruchirappalli, ACCV 2022 Workshop, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456465653,
+                "language": "Python",
+                "last_commit": "2022-08-04T16:45:59Z",
+                "owner": "Pavi114",
+                "repo": "motion-completion-using-transformers",
+                "stars": 14
+              }
+            }
+          ],
+          "description": "MIME: Human-Aware 3D Scene Generation MPI\nMotion In-betweening via Two-stage Transformers Zhejiang University, SIGGRAPH Asia 2022\nSkeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening Shanghai Jiaotong University, ACMMM 2022, [Upcoming Code]\nSkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition University of North Carolina, 1 Sep 2022\nA Unified Framework for Real Time Motion Completion NetEase Games AI Lab, AAAI 2022\nGenerative Tweening: Long-term Inbetweening of 3D Human Motions Adobe Research, 28 May 2020",
+          "node_type": "group",
+          "title": "Motion Applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+              "description": "Stanford, Feb 2023",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595893961,
+                "language": "Python",
+                "last_commit": "2024-02-25T09:49:39Z",
+                "owner": "lllyasviel",
+                "repo": "ControlNet",
+                "stars": 34079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+              "description": "Google Research, 25 Aug 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533199740,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-12-08T02:19:03Z",
+                "owner": "XavierXiao",
+                "repo": "Dreambooth-Stable-Diffusion",
+                "stars": 7738
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prompt-to-Prompt Image Editing with Cross Attention Control",
+              "description": "Google Research, 2 Aug 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 534779800,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-18T15:50:28Z",
+                "owner": "bloc97",
+                "repo": "CrossAttentionControl",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improved Vector Quantized Diffusion Models",
+              "description": "University of Science and Technology of China, 31 May 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446749511,
+                "language": "Python",
+                "last_commit": "2022-06-30T05:57:45Z",
+                "owner": "cientgu",
+                "repo": "VQ-Diffusion",
+                "stars": 487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diffusion Autoencoders: Toward a Meaningful and Decodable Representation",
+              "description": "Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446713689,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-12T17:51:20Z",
+                "owner": "konpatp",
+                "repo": "diffae",
+                "stars": 969
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vector Quantized Diffusion Model for Text-to-Image Synthesis",
+              "description": "University of Science and Technology of China, CVPR 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446749511,
+                "language": "Python",
+                "last_commit": "2022-06-30T05:57:45Z",
+                "owner": "cientgu",
+                "repo": "VQ-Diffusion",
+                "stars": 487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+              "description": "Runway ML, CVPR 2022, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440244590,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-02-29T05:29:47Z",
+                "owner": "CompVis",
+                "repo": "latent-diffusion",
+                "stars": 14130
+              }
+            }
+          ],
+          "description": "For more recent paper, you can find from here\nSpaText: Spatio-Textual Representation for Controllable Image Generation Meta AI (FAIR), 25 Nov 2022\nSketch-Guided Text-to-Image Diffusion Models Google Research, 24 Nov 2022\nMake-A-Story: Visual Memory Conditioned Consistent Story Generation University of British Columbia, 23 Nov 2022\nSynthesizing Coherent Story with Auto-Regressive Latent Diffusion Models University of Waterloo, 20 Nov 2022, [Upcoming Code]\nInstructPix2Pix: Learning to Follow Image Editing Instructions UC Berkeley, 17 Nov 2022\nNull-text Inversion for Editing Real Images using Guided Diffusion Models Google Research, 17 Nov 2022\nHumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation University of Chinese Academy of Sciences, 11 Nov 2022\nImagic: Text-Based Real Image Editing with Diffusion Models Google Research, 17 Oct 2022\nSelf-Guided Diffusion Models University of Amsterdam, 12 Oct 2022\nOn Distillation of Guided Diffusion Models Stanford University, NeurIPS 2022 Workshop, 6 Oct 2022\nMake-A-Scene: Scene-Based Text-to-Image Generation with Human Priors Meta AI Research, 24 Mar 2022",
+          "node_type": "group",
+          "title": "Text-Image Generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models",
+              "description": "Penn State University, CVPR 2024, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814802700,
+                "language": "Python",
+                "last_commit": "2024-06-13T18:29:19Z",
+                "owner": "merlresearch",
+                "repo": "TI2V-Zero",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conditional Image-to-Video Generation with Latent Flow Diffusion Models",
+              "description": "Penn State University, CVPR 2023, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607301922,
+                "language": "Python",
+                "last_commit": "2024-06-18T17:55:12Z",
+                "owner": "nihaomiao",
+                "repo": "CVPR23_LFDM",
+                "stars": 470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text-To-4D Dynamic Scene Generation",
+              "description": "Meta AI, 2023, [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591976118,
+                "language": "HTML",
+                "last_commit": "2023-01-30T08:10:55Z",
+                "owner": "Make-A-Video3D",
+                "repo": "Make-A-Video3D.github.io",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text2LIVE: Text-Driven Layered Image and Video Editing",
+              "description": "NVIDIA Research, ECCV 2022 (Oral), [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518062112,
+                "language": "Python",
+                "last_commit": "2023-03-09T15:26:39Z",
+                "owner": "omerbt",
+                "repo": "Text2LIVE",
+                "stars": 886
+              }
+            }
+          ],
+          "description": "Structure and Content-Guided Video Synthesis with Diffusion Models Runway, 6 Feb 2023\nLatent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths The Hong Kong University of Science and Technology, 23 Nov 2022, [Upcoming Code]\nMagicVideo: Efficient Video Generation With Latent Diffusion Models ByteDance Inc, 20 Nov 2022",
+          "node_type": "group",
+          "title": "Text-Video Generation"
+        }
+      ],
+      "title": "Papers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T09:32:07.902Z",
+    "last_updated": "2026-08-24T14:32:52.105Z",
     "original_repository": "haofanwang/awesome-conditional-content-generation",
     "original_repository_id": 571148432,
     "original_repository_sha": "d24c990864d0e565f8b8d405496886c8f58d3080",
