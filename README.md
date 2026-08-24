@@ -99,7 +99,7 @@ Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motio
 Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2023-08-08
 
 [MotionBERT: Unified Pretraining for Human Motion Analysis](https://motionbert.github.io/) \
-SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,436 | 🐛 44 | 🌐 Python | 📅 2026-03-14
+SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,437 | 🐛 44 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
 Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,092 | 🐛 69 | 🌐 Python | 📅 2025-10-01
@@ -120,7 +120,7 @@ Stanford University, ECCV 2022, [\[Code\]](https://github.com/y-zheng18/GIMO) �
 Tel Aviv University, ECCV 2022, [\[Code\]](https://github.com/GuyTevet/MotionCLIP) ⭐ 500 | 🐛 23 | 🌐 Python | 📅 2023-12-18
 
 [Generating Diverse and Natural 3D Human Motions from Text](https://ericguo5513.github.io/text-to-motion/) \
-University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 713 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 714 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://hongfz16.github.io/projects/AvatarCLIP.html) \
 NTU, SIGGRAPH 2022, [\[Code\]](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,100 | 🐛 19 | 🌐 Python | 📅 2023-02-15
@@ -191,7 +191,7 @@ UC Berkeley, CVPR 2019, [\[Code\]](https://github.com/amirbar/speech2gesture) �
 For more recent more, you can find from [here](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md) ⭐ 348 | 🐛 0 | 🌐 TeX | 📅 2025-02-09
 
 [InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](https://sirui-xu.github.io/InterDiff/)\
-UIUC, ICCV 2023, [\[Code\]](https://github.com/Sirui-Xu/InterDiff) ⭐ 286 | 🐛 5 | 🌐 Python | 📅 2025-03-26
+UIUC, ICCV 2023, [\[Code\]](https://github.com/Sirui-Xu/InterDiff) ⭐ 287 | 🐛 5 | 🌐 Python | 📅 2025-03-26
 
 [Stochastic Multi-Person 3D Motion Forecasting](https://sirui-xu.github.io/DuMMF/)\
 UIUC, ICLR 2023 (Spotlight), [\[Code\]](https://github.com/Sirui-Xu/DuMMF) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2023-09-01
@@ -254,9 +254,9 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,364 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,362 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,076 | 🐛 460 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,079 | 🐛 460 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -308,7 +308,7 @@ Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]]
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 487 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,128 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,129 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
