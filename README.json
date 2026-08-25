@@ -129,7 +129,7 @@
                 "last_commit": "2024-09-17T14:19:55Z",
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 773
+                "stars": 774
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2024-08-18T00:21:07Z",
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 715
+                "stars": 716
               }
             },
             {
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:52.105Z",
+    "last_updated": "2026-08-25T06:21:22.185Z",
     "original_repository": "haofanwang/awesome-conditional-content-generation",
     "original_repository_id": 571148432,
     "original_repository_sha": "d24c990864d0e565f8b8d405496886c8f58d3080",
