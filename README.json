@@ -682,7 +682,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34079
+                "stars": 34081
               }
             },
             {
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:22.185Z",
+    "last_updated": "2026-08-25T09:21:20.941Z",
     "original_repository": "haofanwang/awesome-conditional-content-generation",
     "original_repository_id": 571148432,
     "original_repository_sha": "d24c990864d0e565f8b8d405496886c8f58d3080",
