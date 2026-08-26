@@ -62,7 +62,7 @@
                 "last_commit": "2023-12-07T16:37:46Z",
                 "owner": "lisiyao21",
                 "repo": "Bailando",
-                "stars": 437
+                "stars": 438
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-03-14T07:57:31Z",
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1437
+                "stars": 1439
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2023-12-18T15:17:15Z",
                 "owner": "GuyTevet",
                 "repo": "MotionCLIP",
-                "stars": 500
+                "stars": 501
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2025-06-26T11:53:51Z",
                 "owner": "PantoMatrix",
                 "repo": "BEAT",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -518,7 +518,7 @@
                 "last_commit": "2024-05-05T21:06:49Z",
                 "owner": "LinghaoChan",
                 "repo": "HumanMAC",
-                "stars": 326
+                "stars": 327
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34081
+                "stars": 34090
               }
             },
             {
@@ -772,7 +772,7 @@
                 "last_commit": "2024-02-29T05:29:47Z",
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14130
+                "stars": 14132
               }
             }
           ],
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:21:20.941Z",
+    "last_updated": "2026-08-26T09:26:35.954Z",
     "original_repository": "haofanwang/awesome-conditional-content-generation",
     "original_repository_id": 571148432,
     "original_repository_sha": "d24c990864d0e565f8b8d405496886c8f58d3080",
