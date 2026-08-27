@@ -174,7 +174,7 @@
                 "last_commit": "2026-03-14T07:57:31Z",
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1439
+                "stars": 1440
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34090
+                "stars": 34094
               }
             },
             {
@@ -852,9 +852,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:26:35.954Z",
-    "original_repository": "haofanwang/awesome-conditional-content-generation",
-    "original_repository_id": 571148432,
+    "last_updated": "2026-08-27T11:36:08.079Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 571148432,
+      "language": null,
+      "last_commit": "2024-07-26T07:12:57Z",
+      "owner": "haofanwang",
+      "repo": "awesome-conditional-content-generation",
+      "stars": 282
+    },
     "original_repository_sha": "d24c990864d0e565f8b8d405496886c8f58d3080",
     "enhanced_repository": "enhansome/enhansome-conditional-content-generation",
     "enhanced_repository_description": null,
