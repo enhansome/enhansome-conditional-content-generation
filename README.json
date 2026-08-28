@@ -18,7 +18,8 @@
                 "owner": "viiika",
                 "repo": "Diffusion-Conductor",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "L-YeZhu",
                 "repo": "CDCD",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "jw09191",
                 "repo": "MNET",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "lisiyao21",
                 "repo": "Bailando",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "google-research",
                 "repo": "mint",
                 "stars": 563
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             }
           ],
           "description": "Music-Driven Group Choreography AIOZ AI, CVPR'23\nMagic: Multi Art Genre Intelligent Choreography Dataset and Network for 3D Dance Generation Tsinghua University, 7 Dec 2022\nPretrained Diffusion Models for Unified Human Motion Synthesis DAMO Academy, Alibaba Group, 6 Dec 2022\nEDGE: Editable Dance Generation From Music Stanford University, 19 Nov 2022\nYou Never Stop Dancing: Non-freezing Dance Generation via Bank-constrained Manifold Projection MSRA, NeurIPS'22\nGroupDancer: Music to Multi-People Dance Synthesis with Style Collaboration Tsinghua University, ACMMM'22\nDance Style Transfer with Cross-modal Transformer KTH, 22 Aug 2022, [Upcoming Code]\nMusic-driven Dance Regeneration with Controllable Key Pose Constraints Tencent, 8 July 2022",
@@ -100,7 +105,8 @@
                 "owner": "MotrixLab",
                 "repo": "ReMoDiffuse",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "priorMDM",
                 "repo": "priorMDM",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -129,8 +136,9 @@
                 "last_commit": "2024-09-17T14:19:55Z",
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 774
-              }
+                "stars": 775
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "ChenFengYe",
                 "repo": "motion-latent-diffusion",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "TaeryungLee",
                 "repo": "MultiAct_RELEASE",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
                 "stars": 1440
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
                 "stars": 4092
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "MotrixLab",
                 "repo": "MotionDiffuse",
                 "stars": 980
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "Mathux",
                 "repo": "TEMOS",
                 "stars": 454
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "y-zheng18",
                 "repo": "GIMO",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "GuyTevet",
                 "repo": "MotionCLIP",
                 "stars": 501
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -264,8 +280,9 @@
                 "last_commit": "2024-08-18T00:21:07Z",
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 716
-              }
+                "stars": 717
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "hongfz16",
                 "repo": "AvatarCLIP",
                 "stars": 1100
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "UttaranB127",
                 "repo": "Text2Gestures",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             }
           ],
           "description": "TEMOS: Generating diverse human motions from textual descriptions ENPC, CVPR'23\nGestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents Peking University, CVPR'23\nModiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models Beihang University, 10 Jan 2023\nMoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis Max Planck Institute for Informatics, 8 Dec 2022\nExecuting your Commands via Motion Diffusion in Latent Space Tencent PCG, 8 Dec 2022, [Upcoming Code]\nUDE: A Unified Driving Engine for Human Motion Generation Xiaobing Inc, 29 Nov 2022, [Upcoming Code]\nFLAME: Free-form Language-based Motion Synthesis & Editing Korea University, 1 Sep 2022",
@@ -317,7 +336,8 @@
                 "owner": "Advocate99",
                 "repo": "DiffGesture",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "yerfor",
                 "repo": "GeneFace",
                 "stars": 2657
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "PantoMatrix",
                 "repo": "BEAT",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "jixinya",
                 "repo": "EAMM",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "alvinliu0",
                 "repo": "HA2G",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "akira-l",
                 "repo": "SEEG",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -422,7 +448,8 @@
                 "owner": "EvelynFan",
                 "repo": "FaceFormer",
                 "stars": 917
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -437,7 +464,8 @@
                 "owner": "TheTempAccount",
                 "repo": "Co-Speech-Motion-Generation",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -452,7 +480,8 @@
                 "owner": "JingLi513",
                 "repo": "Audio2Gestures",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -467,7 +496,8 @@
                 "owner": "amirbar",
                 "repo": "speech2gesture",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             }
           ],
           "description": "For more recent paper, you can find from here\nDiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model Macau University of Science and Technolog, 24 Jan 2023\nDiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis Tsinghua University, 10 Jan 2023\nDiffused Heads: Diffusion Models Beat GANs on Talking-Face Generation University of Wrocław, 6 Jan 2023, [Incoming Code]\nGenerating Holistic 3D Human Motion from Speech Max Planck Institute for Intelligent Systems, 8 Dev 2022\nAudio-Driven Co-Speech Gesture Video Generation NTU, 5 Dec 2022\nListen, denoise, action! Audio-driven motion synthesis with diffusion models KTH Royal Institute of Technology, 17 Nov 2022\nLearning Speech-driven 3D Conversational Gestures from Video Max Planck Institute for Informatics, IVA 2021, [Code]",
@@ -489,7 +519,8 @@
                 "owner": "Sirui-Xu",
                 "repo": "InterDiff",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -504,7 +535,8 @@
                 "owner": "Sirui-Xu",
                 "repo": "DuMMF",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -519,7 +551,8 @@
                 "owner": "LinghaoChan",
                 "repo": "HumanMAC",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -534,7 +567,8 @@
                 "owner": "Sirui-Xu",
                 "repo": "STARS",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -549,7 +583,8 @@
                 "owner": "naver",
                 "repo": "PoseGPT",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -564,7 +599,8 @@
                 "owner": "c-he",
                 "repo": "NeMF",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -579,7 +615,8 @@
                 "owner": "GUO-W",
                 "repo": "MultiMotion",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -594,7 +631,8 @@
                 "owner": "MotionMLP",
                 "repo": "MotionMixer",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             }
           ],
           "description": "For more recent more, you can find from here\nBeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction University of Barcelona, 25 Nov 2022, [Upcoming Code]\nMulti-Person 3D Motion Prediction with Multi-Range Transformers UCSD, NeurIPS 2021",
@@ -616,7 +654,8 @@
                 "owner": "onestarYX",
                 "repo": "summon",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "atnikos",
                 "repo": "teach",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -646,7 +686,8 @@
                 "owner": "jihoonerd",
                 "repo": "Conditional-Motion-In-Betweening",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -661,7 +702,8 @@
                 "owner": "Pavi114",
                 "repo": "motion-completion-using-transformers",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             }
           ],
           "description": "MIME: Human-Aware 3D Scene Generation MPI\nMotion In-betweening via Two-stage Transformers Zhejiang University, SIGGRAPH Asia 2022\nSkeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening Shanghai Jiaotong University, ACMMM 2022, [Upcoming Code]\nSkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition University of North Carolina, 1 Sep 2022\nA Unified Framework for Real Time Motion Completion NetEase Games AI Lab, AAAI 2022\nGenerative Tweening: Long-term Inbetweening of 3D Human Motions Adobe Research, 28 May 2020",
@@ -682,8 +724,9 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34096
-              }
+                "stars": 34100
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -698,7 +741,8 @@
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
                 "stars": 7738
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -713,7 +757,8 @@
                 "owner": "bloc97",
                 "repo": "CrossAttentionControl",
                 "stars": 1337
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -728,7 +773,8 @@
                 "owner": "cientgu",
                 "repo": "VQ-Diffusion",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -743,7 +789,8 @@
                 "owner": "konpatp",
                 "repo": "diffae",
                 "stars": 969
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -758,7 +805,8 @@
                 "owner": "cientgu",
                 "repo": "VQ-Diffusion",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -772,8 +820,9 @@
                 "last_commit": "2024-02-29T05:29:47Z",
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14132
-              }
+                "stars": 14130
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             }
           ],
           "description": "For more recent paper, you can find from here\nSpaText: Spatio-Textual Representation for Controllable Image Generation Meta AI (FAIR), 25 Nov 2022\nSketch-Guided Text-to-Image Diffusion Models Google Research, 24 Nov 2022\nMake-A-Story: Visual Memory Conditioned Consistent Story Generation University of British Columbia, 23 Nov 2022\nSynthesizing Coherent Story with Auto-Regressive Latent Diffusion Models University of Waterloo, 20 Nov 2022, [Upcoming Code]\nInstructPix2Pix: Learning to Follow Image Editing Instructions UC Berkeley, 17 Nov 2022\nNull-text Inversion for Editing Real Images using Guided Diffusion Models Google Research, 17 Nov 2022\nHumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation University of Chinese Academy of Sciences, 11 Nov 2022\nImagic: Text-Based Real Image Editing with Diffusion Models Google Research, 17 Oct 2022\nSelf-Guided Diffusion Models University of Amsterdam, 12 Oct 2022\nOn Distillation of Guided Diffusion Models Stanford University, NeurIPS 2022 Workshop, 6 Oct 2022\nMake-A-Scene: Scene-Based Text-to-Image Generation with Human Priors Meta AI Research, 24 Mar 2022",
@@ -795,7 +844,8 @@
                 "owner": "merlresearch",
                 "repo": "TI2V-Zero",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -810,7 +860,8 @@
                 "owner": "nihaomiao",
                 "repo": "CVPR23_LFDM",
                 "stars": 470
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -825,7 +876,8 @@
                 "owner": "Make-A-Video3D",
                 "repo": "Make-A-Video3D.github.io",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             },
             {
               "node_type": "item",
@@ -840,7 +892,8 @@
                 "owner": "omerbt",
                 "repo": "Text2LIVE",
                 "stars": 886
-              }
+              },
+              "first_seen": "2026-08-28T20:26:11.554Z"
             }
           ],
           "description": "Structure and Content-Guided Video Synthesis with Diffusion Models Runway, 6 Feb 2023\nLatent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths The Hong Kong University of Science and Technology, 23 Nov 2022, [Upcoming Code]\nMagicVideo: Efficient Video Generation With Latent Diffusion Models ByteDance Inc, 20 Nov 2022",
@@ -852,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:44.523Z",
+    "last_updated": "2026-08-28T20:26:11.554Z",
     "original_repository_info": {
       "archived": false,
       "id": 571148432,
@@ -860,7 +913,7 @@
       "last_commit": "2024-07-26T07:12:57Z",
       "owner": "haofanwang",
       "repo": "awesome-conditional-content-generation",
-      "stars": 282
+      "stars": 283
     },
     "original_repository_sha": "d24c990864d0e565f8b8d405496886c8f58d3080",
     "enhanced_repository": "enhansome/enhansome-conditional-content-generation",
