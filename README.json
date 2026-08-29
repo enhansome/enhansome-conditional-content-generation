@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2023 Summer Symposium, Best Paper Award] Taming Diffusion Models for Music-driven Conducting Motion Generation",
+                "homepage": null,
                 "id": 629415056,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-09T04:26:13Z",
+                "open_issues": 0,
                 "owner": "viiika",
                 "repo": "Diffusion-Conductor",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -28,12 +33,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2023] Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation (CDCD).",
+                "homepage": null,
                 "id": 485390725,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-05T14:03:25Z",
+                "open_issues": 6,
                 "owner": "L-YeZhu",
                 "repo": "CDCD",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "contrastive",
+                  "diffusion",
+                  "music-generation",
+                  "text2image"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"A Brand New Dance Partner:Music-Conditioned Pluralistic Dancing Synthesized by Multiple Dance Genres\", CVPR 2022",
+                "homepage": null,
                 "id": 460310572,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-06T05:49:47Z",
+                "open_issues": 3,
                 "owner": "jw09191",
                 "repo": "MNET",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -60,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for CVPR 2022 paper \"Bailando: 3D dance generation via Actor-Critic GPT with Choreographic Memory\"",
+                "homepage": null,
                 "id": 472203444,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-07T16:37:46Z",
+                "open_issues": 38,
                 "owner": "lisiyao21",
                 "repo": "Bailando",
-                "stars": 438
+                "stars": 438,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -76,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Multi-modal Content Creation Model Training Infrastructure including the FACT model (AI Choreographer) implementation. ",
+                "homepage": null,
                 "id": 368958866,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-02T09:06:52Z",
+                "open_issues": 51,
                 "owner": "google-research",
                 "repo": "mint",
-                "stars": 563
+                "stars": 563,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             }
@@ -99,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model",
+                "homepage": "https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html",
                 "id": 622234196,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-22T00:57:00Z",
+                "open_issues": 13,
                 "owner": "MotrixLab",
                 "repo": "ReMoDiffuse",
-                "stars": 380
+                "stars": 380,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -115,12 +150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of the paper \"Human Motion Diffusion as a Generative Prior\"",
+                "homepage": null,
                 "id": 608261664,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-21T00:27:45Z",
+                "open_issues": 6,
                 "owner": "priorMDM",
                 "repo": "priorMDM",
-                "stars": 525
+                "stars": 525,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -131,12 +171,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”",
+                "homepage": "https://mael-zys.github.io/T2M-GPT/",
                 "id": 588533284,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-17T14:19:55Z",
+                "open_issues": 18,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 775
+                "stars": 775,
+                "topics": [
+                  "gpt",
+                  "motion-generation",
+                  "vq-vae"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -147,12 +196,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Executing your Commands via Motion Diffusion in Latent Space, a fast and high-quality motion diffusion model",
+                "homepage": "https://chenxin.tech/mld/",
                 "id": 575661063,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-11T04:00:32Z",
+                "open_issues": 39,
                 "owner": "ChenFengYe",
                 "repo": "motion-latent-diffusion",
-                "stars": 746
+                "stars": 746,
+                "topics": [
+                  "3d-generation",
+                  "cvpr2023",
+                  "diffusion-model",
+                  "motion",
+                  "motion-generation",
+                  "text-driven",
+                  "text-to-motion"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -163,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of \"MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels\", in AAAI 2023 (Oral presentation).",
+                "homepage": null,
                 "id": 589480565,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-19T04:25:56Z",
+                "open_issues": 3,
                 "owner": "TaeryungLee",
                 "repo": "MultiAct_RELEASE",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -179,12 +246,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] PyTorch Implementation of \"MotionBERT: A Unified Perspective on Learning Human Motion Representations\"",
+                "homepage": null,
                 "id": 487855941,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-14T07:57:31Z",
+                "open_issues": 44,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1440
+                "stars": 1440,
+                "topics": [
+                  "3d-pose-estimation",
+                  "iccv2023",
+                  "mesh-recovery",
+                  "skeleton-based-action-recognition"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -195,12 +272,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official PyTorch implementation of the paper \"Human Motion Diffusion Model\"",
+                "homepage": null,
                 "id": 543082997,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-01T00:29:26Z",
+                "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4092
+                "stars": 4092,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -211,12 +293,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model",
+                "homepage": "https://mingyuan-zhang.github.io/projects/MotionDiffuse.html",
                 "id": 532145731,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-19T21:25:48Z",
+                "open_issues": 26,
                 "owner": "MotrixLab",
                 "repo": "MotionDiffuse",
-                "stars": 980
+                "stars": 980,
+                "topics": [
+                  "3d-generation",
+                  "diffusion-model",
+                  "motion-generation",
+                  "text-driven"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -227,12 +319,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"TEMOS: Generating diverse human motions from textual descriptions\", ECCV 2022 (Oral)",
+                "homepage": "https://mathis.petrovich.fr/temos/",
                 "id": 487791649,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-13T18:39:05Z",
+                "open_issues": 4,
                 "owner": "Mathux",
                 "repo": "TEMOS",
-                "stars": 454
+                "stars": 454,
+                "topics": [
+                  "human-motion",
+                  "motion-generation",
+                  "text-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -243,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo of our ECCV 2022 paper \"GIMO: Gaze-Informed Human Motion Prediction in Context\"",
+                "homepage": null,
                 "id": 512451174,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-16T03:16:15Z",
+                "open_issues": 7,
                 "owner": "y-zheng18",
                 "repo": "GIMO",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -259,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch implementation of the paper \"MotionCLIP: Exposing Human Motion Generation to CLIP Space\"",
+                "homepage": null,
                 "id": 469639200,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-18T15:17:15Z",
+                "open_issues": 23,
                 "owner": "GuyTevet",
                 "repo": "MotionCLIP",
-                "stars": 501
+                "stars": 501,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -275,12 +386,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for \"Generating Diverse and Natural 3D Human Motions from Texts (CVPR2022).\"",
+                "homepage": null,
                 "id": 469479246,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-18T00:21:07Z",
+                "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 717
+                "stars": 717,
+                "topics": [
+                  "motion-generation",
+                  "pytorch-implementation"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -291,12 +410,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars",
+                "homepage": "https://hongfz16.github.io/projects/AvatarCLIP.html",
                 "id": 488129853,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-15T12:46:00Z",
+                "open_issues": 19,
                 "owner": "hongfz16",
                 "repo": "AvatarCLIP",
-                "stars": 1100
+                "stars": 1100,
+                "topics": [
+                  "3d-generation",
+                  "motion-generation",
+                  "nerf"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -307,12 +435,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of the paper \"Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents\".",
+                "homepage": "https://gamma.umd.edu/t2g/",
                 "id": 251157042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-16T15:10:20Z",
+                "open_issues": 1,
                 "owner": "UttaranB127",
                 "repo": "Text2Gestures",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "affective-computing",
+                  "gesture-generation",
+                  "intelligent-agent",
+                  "text-processing",
+                  "virtual-agent"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             }
@@ -330,12 +469,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'2023] Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation",
+                "homepage": null,
                 "id": 612845360,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-18T08:59:16Z",
+                "open_issues": 0,
                 "owner": "Advocate99",
                 "repo": "DiffGesture",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "aigc",
+                  "animation",
+                  "audio-driven",
+                  "cvpr2023",
+                  "diffusion-models",
+                  "gesture-generation"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -346,12 +497,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code",
+                "homepage": null,
                 "id": 597040690,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-18T09:10:07Z",
+                "open_issues": 102,
                 "owner": "yerfor",
                 "repo": "GeneFace",
-                "stars": 2657
+                "stars": 2657,
+                "topics": [
+                  "nerf",
+                  "pytorch",
+                  "talking-face-generation"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -362,12 +522,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZeroEGGS: Zero-Shot Example-Based Gesture Generation from Speech",
+                "homepage": null,
                 "id": 538686235,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-16T12:50:43Z",
+                "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 427
+                "stars": 427,
+                "topics": [
+                  "character-animation"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -378,12 +545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 736239610,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-06-26T11:53:51Z",
+                "open_issues": 4,
                 "owner": "PantoMatrix",
                 "repo": "BEAT",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -394,12 +566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper 'EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model'",
+                "homepage": null,
                 "id": 521374751,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-28T12:39:11Z",
+                "open_issues": 15,
                 "owner": "jixinya",
                 "repo": "EAMM",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -410,12 +587,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Code for \"Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation\"",
+                "homepage": "https://alvinliu0.github.io/projects/HA2G",
                 "id": 471211488,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-16T09:02:44Z",
+                "open_issues": 14,
                 "owner": "alvinliu0",
                 "repo": "HA2G",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "audio-visual-learning",
+                  "co-speech-gesture",
+                  "cvpr2022"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -426,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for SEEG: Semantic Energized Co-speech Gesture Generation",
+                "homepage": null,
                 "id": 466992154,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-03T11:14:13Z",
+                "open_issues": 0,
                 "owner": "akira-l",
                 "repo": "SEEG",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -442,12 +633,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] FaceFormer: Speech-Driven 3D Facial Animation with Transformers",
+                "homepage": null,
                 "id": 467406547,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-22T18:14:18Z",
+                "open_issues": 73,
                 "owner": "EvelynFan",
                 "repo": "FaceFormer",
-                "stars": 917
+                "stars": 917,
+                "topics": [
+                  "3d-face",
+                  "3d-models",
+                  "computer-graphics",
+                  "computer-vision",
+                  "deep-learning",
+                  "facial-animation",
+                  "facial-expressions",
+                  "lip-animation",
+                  "pytorch-implementation",
+                  "speech"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -458,12 +665,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Freeform Body Motion Generation from Speech",
+                "homepage": null,
                 "id": 418147751,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-12T03:56:58Z",
+                "open_issues": 22,
                 "owner": "TheTempAccount",
                 "repo": "Co-Speech-Motion-Generation",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "co-speech-gesture",
+                  "generation-algorithms",
+                  "gesture-controller",
+                  "talking-head"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -474,12 +691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Audio2Motion Official implementation for Audio2Motion: Generating Diverse Gestures from Speech with Conditional Variational Autoencoders.",
+                "homepage": null,
                 "id": 393409701,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-01T23:52:33Z",
+                "open_issues": 15,
                 "owner": "JingLi513",
                 "repo": "Audio2Gestures",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -490,12 +712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for training the models from the paper \"Learning Individual Styles of Conversational Gestures\"",
+                "homepage": null,
                 "id": 179192868,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-06T19:07:58Z",
+                "open_issues": 14,
                 "owner": "amirbar",
                 "repo": "speech2gesture",
-                "stars": 394
+                "stars": 394,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             }
@@ -513,12 +740,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Official PyTorch implementation of the paper \"InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion\"",
+                "homepage": "https://sirui-xu.github.io/InterDiff",
                 "id": 685779821,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-26T01:53:08Z",
+                "open_issues": 5,
                 "owner": "Sirui-Xu",
                 "repo": "InterDiff",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "3d-human-pose",
+                  "6d",
+                  "deep-learning",
+                  "diffusion",
+                  "diffusion-models",
+                  "generative-ai",
+                  "generative-model",
+                  "human-motion-prediction",
+                  "human-object-interaction",
+                  "human-scene-interaction",
+                  "motion-prediction",
+                  "object-pose"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -529,12 +774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023 spotlight] Official PyTorch implementation of the paper \"Stochastic Multi-Person 3D Motion Forecasting\"",
+                "homepage": null,
                 "id": 608446984,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-01T01:59:00Z",
+                "open_issues": 3,
                 "owner": "Sirui-Xu",
                 "repo": "DuMMF",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -545,12 +795,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV-2023] Official code for work \"HumanMAC: Masked Motion Completion for Human Motion Prediction\".",
+                "homepage": "https://lhchen.top/Human-MAC",
                 "id": 598705038,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-05T21:06:49Z",
+                "open_issues": 5,
                 "owner": "LinghaoChan",
                 "repo": "HumanMAC",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "diffusion-models",
+                  "diversity",
+                  "motion",
+                  "motion-forecasting",
+                  "motion-generation",
+                  "motion-prediction",
+                  "pose-forecasting",
+                  "pose-prediction"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -561,12 +825,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022 oral] Official PyTorch implementation of the paper \"Diverse Human Motion Prediction Guided by Multi-Level Spatial-Temporal Anchors\"",
+                "homepage": null,
                 "id": 477195226,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-19T01:04:48Z",
+                "open_issues": 0,
                 "owner": "Sirui-Xu",
                 "repo": "STARS",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "deep-learning",
+                  "disentangled-representations",
+                  "eccv2022",
+                  "generative-model",
+                  "graph-neural-networks",
+                  "human-motion-prediction",
+                  "motion-forecasting",
+                  "motion-prediction",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -577,12 +856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 543521932,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-18T08:02:01Z",
+                "open_issues": 7,
                 "owner": "naver",
                 "repo": "PoseGPT",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -593,12 +877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] Official implementation of \"NeMF: Neural Motion Fields for Kinematic Animation\"",
+                "homepage": null,
                 "id": 563067605,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-11T00:02:44Z",
+                "open_issues": 10,
                 "owner": "c-he",
                 "repo": "NeMF",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -609,12 +898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Person Extreme Motion Prediction",
+                "homepage": null,
                 "id": 435884925,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-10T13:07:51Z",
+                "open_issues": 0,
                 "owner": "GUO-W",
                 "repo": "MultiMotion",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -625,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of the paper \"MotionMixer: MLP-based 3D Human Body Pose Forecasting\" (IJCAI 2022, oral-presentation).",
+                "homepage": null,
                 "id": 487667053,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-22T16:28:17Z",
+                "open_issues": 0,
                 "owner": "MotionMLP",
                 "repo": "MotionMixer",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             }
@@ -648,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 582744730,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-03T00:43:19Z",
+                "open_issues": 2,
                 "owner": "onestarYX",
                 "repo": "summon",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -664,12 +968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"TEACH: Temporal Action Compositions for 3D Humans\" [3DV 2022]",
+                "homepage": "https://teach.is.tue.mpg.de",
                 "id": 522083433,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-05T14:34:25Z",
+                "open_issues": 2,
                 "owner": "atnikos",
                 "repo": "teach",
-                "stars": 399
+                "stars": 399,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -680,12 +989,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕹️ Official Implementation of Conditional Motion In-betweening (CMIB) 🏃",
+                "homepage": "https://jihoonerd.github.io/Conditional-Motion-In-Betweening/",
                 "id": 365982614,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-25T15:32:50Z",
+                "open_issues": 3,
                 "owner": "jihoonerd",
                 "repo": "Conditional-Motion-In-Betweening",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "in-betweening",
+                  "motion",
+                  "motion-generation"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -696,12 +1014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 456465653,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-04T16:45:59Z",
+                "open_issues": 1,
                 "owner": "Pavi114",
                 "repo": "motion-completion-using-transformers",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             }
@@ -719,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Let us control diffusion models!",
+                "homepage": null,
                 "id": 595893961,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-25T09:49:39Z",
+                "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34100
+                "stars": 34101,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -735,12 +1063,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
+                "homepage": null,
                 "id": 533199740,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-12-08T02:19:03Z",
+                "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7738
+                "stars": 7738,
+                "topics": [
+                  "pytorch",
+                  "pytorch-lightning",
+                  "stable-diffusion",
+                  "text-to-image"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -751,12 +1089,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial implementation of \"Prompt-to-Prompt Image Editing with Cross Attention Control\" with Stable Diffusion",
+                "homepage": null,
                 "id": 534779800,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-10-18T15:50:28Z",
+                "open_issues": 21,
                 "owner": "bloc97",
                 "repo": "CrossAttentionControl",
-                "stars": 1337
+                "stars": 1337,
+                "topics": [
+                  "cross-attention",
+                  "deep-learning",
+                  "diffusion-models",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -767,12 +1115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 446749511,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-30T05:57:45Z",
+                "open_issues": 17,
                 "owner": "cientgu",
                 "repo": "VQ-Diffusion",
-                "stars": 487
+                "stars": 487,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -783,12 +1136,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of Diffusion Autoencoders",
+                "homepage": "https://diff-ae.github.io/",
                 "id": 446713689,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-09-12T17:51:20Z",
+                "open_issues": 52,
                 "owner": "konpatp",
                 "repo": "diffae",
-                "stars": 969
+                "stars": 969,
+                "topics": [
+                  "autoencoder",
+                  "cvpr2022",
+                  "deep-learning",
+                  "diffusion-models",
+                  "ffhq",
+                  "latent-variable-models",
+                  "lsun"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -799,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 446749511,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-30T05:57:45Z",
+                "open_issues": 17,
                 "owner": "cientgu",
                 "repo": "VQ-Diffusion",
-                "stars": 487
+                "stars": 487,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -815,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+                "homepage": null,
                 "id": 440244590,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-02-29T05:29:47Z",
+                "open_issues": 293,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14130
+                "stars": 14130,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             }
@@ -838,12 +1214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text-conditioned image-to-video generation based on diffusion models.",
+                "homepage": null,
                 "id": 814802700,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-06-13T18:29:19Z",
+                "open_issues": 3,
                 "owner": "merlresearch",
                 "repo": "TI2V-Zero",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -854,12 +1235,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The pytorch implementation of our CVPR 2023 paper \"Conditional Image-to-Video Generation with Latent Flow Diffusion Models\"",
+                "homepage": null,
                 "id": 607301922,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-06-18T17:55:12Z",
+                "open_issues": 6,
                 "owner": "nihaomiao",
                 "repo": "CVPR23_LFDM",
-                "stars": 470
+                "stars": 470,
+                "topics": [
+                  "cvpr2023",
+                  "diffusion-models",
+                  "image-animation",
+                  "image-to-video",
+                  "latent-diffusion",
+                  "optical-flow",
+                  "video-generation",
+                  "video-prediction"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -870,12 +1265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 591976118,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-01-30T08:10:55Z",
+                "open_issues": 0,
                 "owner": "Make-A-Video3D",
                 "repo": "Make-A-Video3D.github.io",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             },
@@ -886,12 +1286,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Implementation for \"Text2LIVE: Text-Driven Layered Image and Video Editing\" (ECCV 2022 Oral)",
+                "homepage": "https://text2live.github.io/",
                 "id": 518062112,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-09T15:26:39Z",
+                "open_issues": 21,
                 "owner": "omerbt",
                 "repo": "Text2LIVE",
-                "stars": 886
+                "stars": 886,
+                "topics": [
+                  "clip",
+                  "eccv2022",
+                  "generative-model",
+                  "image-editing",
+                  "image-manipulation",
+                  "single-image",
+                  "single-video",
+                  "text-driven-editing",
+                  "text2live",
+                  "video-editing"
+                ]
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
             }
@@ -905,15 +1321,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:11.554Z",
+    "last_updated": "2026-08-29T04:47:08.009Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
+      "homepage": null,
       "id": 571148432,
       "language": null,
+      "license": null,
       "last_commit": "2024-07-26T07:12:57Z",
+      "open_issues": 2,
       "owner": "haofanwang",
       "repo": "awesome-conditional-content-generation",
-      "stars": 283
+      "stars": 283,
+      "topics": [
+        "aigc",
+        "awesome-list",
+        "conditional-generation",
+        "controllable-generation",
+        "cross-modality",
+        "diffusion-models"
+      ]
     },
     "original_repository_sha": "d24c990864d0e565f8b8d405496886c8f58d3080",
     "enhanced_repository": "enhansome/enhansome-conditional-content-generation",
