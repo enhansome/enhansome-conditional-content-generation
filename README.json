@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4092,
+                "stars": 4093,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -302,7 +302,7 @@
                 "open_issues": 26,
                 "owner": "MotrixLab",
                 "repo": "MotionDiffuse",
-                "stars": 980,
+                "stars": 981,
                 "topics": [
                   "3d-generation",
                   "diffusion-model",
@@ -1051,7 +1051,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34101,
+                "stars": 34102,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 21,
                 "owner": "bloc97",
                 "repo": "CrossAttentionControl",
-                "stars": 1337,
+                "stars": 1336,
                 "topics": [
                   "cross-attention",
                   "deep-learning",
@@ -1195,7 +1195,7 @@
                 "open_issues": 293,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14131,
+                "stars": 14132,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:01:55.348Z",
+    "last_updated": "2026-08-30T14:00:53.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
