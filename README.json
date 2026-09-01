@@ -180,7 +180,7 @@
                 "open_issues": 18,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 775,
+                "stars": 776,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4093,
+                "stars": 4092,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -302,7 +302,7 @@
                 "open_issues": 26,
                 "owner": "MotrixLab",
                 "repo": "MotionDiffuse",
-                "stars": 981,
+                "stars": 982,
                 "topics": [
                   "3d-generation",
                   "diffusion-model",
@@ -328,7 +328,7 @@
                 "open_issues": 4,
                 "owner": "Mathux",
                 "repo": "TEMOS",
-                "stars": 454,
+                "stars": 453,
                 "topics": [
                   "human-motion",
                   "motion-generation",
@@ -506,7 +506,7 @@
                 "open_issues": 102,
                 "owner": "yerfor",
                 "repo": "GeneFace",
-                "stars": 2657,
+                "stars": 2658,
                 "topics": [
                   "nerf",
                   "pytorch",
@@ -642,7 +642,7 @@
                 "open_issues": 73,
                 "owner": "EvelynFan",
                 "repo": "FaceFormer",
-                "stars": 917,
+                "stars": 918,
                 "topics": [
                   "3d-face",
                   "3d-models",
@@ -1051,7 +1051,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34102,
+                "stars": 34103,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 293,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14133,
+                "stars": 14135,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:24:41.964Z",
+    "last_updated": "2026-09-01T13:43:15.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
