@@ -531,7 +531,7 @@
                 "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 427,
+                "stars": 428,
                 "topics": [
                   "character-animation"
                 ]
@@ -801,7 +801,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-05T21:06:49Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "LinghaoChan",
                 "repo": "HumanMAC",
                 "stars": 327,
@@ -1051,7 +1051,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34109,
+                "stars": 34111,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:57:26.839Z",
+    "last_updated": "2026-09-05T12:08:30.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
