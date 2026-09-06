@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4092,
+                "stars": 4093,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -328,7 +328,7 @@
                 "open_issues": 4,
                 "owner": "Mathux",
                 "repo": "TEMOS",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "human-motion",
                   "motion-generation",
@@ -1051,7 +1051,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34111,
+                "stars": 34112,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 293,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14139,
+                "stars": 14141,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:08:30.899Z",
+    "last_updated": "2026-09-06T12:23:26.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
