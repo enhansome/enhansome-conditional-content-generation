@@ -205,7 +205,7 @@
                 "open_issues": 39,
                 "owner": "ChenFengYe",
                 "repo": "motion-latent-diffusion",
-                "stars": 746,
+                "stars": 748,
                 "topics": [
                   "3d-generation",
                   "cvpr2023",
@@ -255,7 +255,7 @@
                 "open_issues": 44,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1442,
+                "stars": 1443,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4093,
+                "stars": 4094,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -395,7 +395,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 718,
+                "stars": 719,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -1051,7 +1051,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34112,
+                "stars": 34114,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:23:26.267Z",
+    "last_updated": "2026-09-07T14:29:17.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
