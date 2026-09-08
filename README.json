@@ -138,7 +138,7 @@
                 "open_issues": 13,
                 "owner": "MotrixLab",
                 "repo": "ReMoDiffuse",
-                "stars": 380,
+                "stars": 381,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4094,
+                "stars": 4095,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -395,7 +395,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -1051,7 +1051,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34114,
+                "stars": 34110,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7735,
+                "stars": 7733,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1098,7 +1098,7 @@
                 "open_issues": 21,
                 "owner": "bloc97",
                 "repo": "CrossAttentionControl",
-                "stars": 1335,
+                "stars": 1336,
                 "topics": [
                   "cross-attention",
                   "deep-learning",
@@ -1192,10 +1192,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-02-29T05:29:47Z",
-                "open_issues": 293,
+                "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14141,
+                "stars": 14140,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:29:17.319Z",
+    "last_updated": "2026-09-08T13:05:52.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
