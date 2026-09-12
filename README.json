@@ -255,7 +255,7 @@
                 "open_issues": 44,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1445,
+                "stars": 1447,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -506,7 +506,7 @@
                 "open_issues": 102,
                 "owner": "yerfor",
                 "repo": "GeneFace",
-                "stars": 2658,
+                "stars": 2657,
                 "topics": [
                   "nerf",
                   "pytorch",
@@ -1195,7 +1195,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14143,
+                "stars": 14144,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:02:38.486Z",
+    "last_updated": "2026-09-12T12:25:04.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
