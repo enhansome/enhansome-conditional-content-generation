@@ -977,7 +977,7 @@
                 "open_issues": 2,
                 "owner": "atnikos",
                 "repo": "teach",
-                "stars": 399,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34114,
+                "stars": 34113,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1295,7 +1295,7 @@
                 "open_issues": 21,
                 "owner": "omerbt",
                 "repo": "Text2LIVE",
-                "stars": 886,
+                "stars": 885,
                 "topics": [
                   "clip",
                   "eccv2022",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:25:04.354Z",
+    "last_updated": "2026-09-13T13:29:09.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",

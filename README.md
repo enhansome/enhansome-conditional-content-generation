@@ -229,7 +229,7 @@ MPI
 Stanford University, SIGGRAPH Asia 2022, [\[Code\]](https://github.com/onestarYX/summon) ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2024-10-03
 
 [TEACH: Temporal Action Compositions for 3D Humans](https://teach.is.tue.mpg.de/) \
-MPI, 3DV 2022, [\[Code\]](https://github.com/athn-nik/teach) ⭐ 399 | 🐛 2 | 🌐 Python | 📅 2025-11-05
+MPI, 3DV 2022, [\[Code\]](https://github.com/athn-nik/teach) ⭐ 398 | 🐛 2 | 🌐 Python | 📅 2025-11-05
 
 [Motion In-betweening via Two-stage Transformers](http://kunzhou.net/2022/motion-siga22.pdf) \
 Zhejiang University, SIGGRAPH Asia 2022
@@ -256,7 +256,7 @@ Adobe Research, 28 May 2020
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,369 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,114 | 🐛 460 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,113 | 🐛 460 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -331,7 +331,7 @@ The Hong Kong University of Science and Technology, 23 Nov 2022, [\[Upcoming Cod
 ByteDance Inc, 20 Nov 2022
 
 [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/) \
-NVIDIA Research, ECCV 2022 (Oral), [\[Code\]](https://github.com/omerbt/Text2LIVE) ⭐ 886 | 🐛 21 | 🌐 Python | 📅 2023-03-09
+NVIDIA Research, ECCV 2022 (Oral), [\[Code\]](https://github.com/omerbt/Text2LIVE) ⭐ 885 | 🐛 21 | 🌐 Python | 📅 2023-03-09
 
 ### Text-3D Image Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
