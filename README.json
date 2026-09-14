@@ -135,7 +135,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-04-22T00:57:00Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "MotrixLab",
                 "repo": "ReMoDiffuse",
                 "stars": 381,
@@ -177,7 +177,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-09-17T14:19:55Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
                 "stars": 777,
@@ -252,7 +252,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-14T07:57:31Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
                 "stars": 1447,
@@ -299,7 +299,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-07-19T21:25:48Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "MotrixLab",
                 "repo": "MotionDiffuse",
                 "stars": 982,
@@ -328,7 +328,7 @@
                 "open_issues": 4,
                 "owner": "Mathux",
                 "repo": "TEMOS",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "human-motion",
                   "motion-generation",
@@ -1048,10 +1048,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-02-25T09:49:39Z",
-                "open_issues": 460,
+                "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34113,
+                "stars": 34114,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:29:09.722Z",
+    "last_updated": "2026-09-14T15:16:47.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
