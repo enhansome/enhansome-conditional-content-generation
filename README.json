@@ -205,7 +205,7 @@
                 "open_issues": 39,
                 "owner": "ChenFengYe",
                 "repo": "motion-latent-diffusion",
-                "stars": 748,
+                "stars": 747,
                 "topics": [
                   "3d-generation",
                   "cvpr2023",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34114,
+                "stars": 34117,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14144,
+                "stars": 14147,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:16:47.797Z",
+    "last_updated": "2026-09-15T13:54:14.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
