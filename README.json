@@ -302,7 +302,7 @@
                 "open_issues": 27,
                 "owner": "MotrixLab",
                 "repo": "MotionDiffuse",
-                "stars": 982,
+                "stars": 983,
                 "topics": [
                   "3d-generation",
                   "diffusion-model",
@@ -395,7 +395,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 719,
+                "stars": 718,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -1195,7 +1195,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14148,
+                "stars": 14149,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:49:10.363Z",
+    "last_updated": "2026-09-18T13:11:39.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
