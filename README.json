@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4100,
+                "stars": 4101,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34115,
+                "stars": 34117,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7733,
+                "stars": 7732,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:43:00.484Z",
+    "last_updated": "2026-09-20T13:14:19.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
