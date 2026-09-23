@@ -126,7 +126,7 @@ University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text
 NTU, SIGGRAPH 2022, [\[Code\]](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,100 | 🐛 19 | 🌐 Python | 📅 2023-02-15
 
 [Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents](https://arxiv.org/abs/2101.11101) \
-University of Maryland,, VR 2021, [\[Code\]](https://github.com/UttaranB127/Text2Gestures) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2021-11-16
+University of Maryland,, VR 2021, [\[Code\]](https://github.com/UttaranB127/Text2Gestures) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2021-11-16
 
 ### Audio-Driven motion generation
 
@@ -254,9 +254,9 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,370 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,371 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,119 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,123 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -293,7 +293,7 @@ Stanford University, NeurIPS 2022 Workshop, 6 Oct 2022
 Google Research, 25 Aug 2022, [\[Code\]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ⭐ 7,732 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2022-12-08
 
 [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) \
-Google Research, 2 Aug 2022, [\[Code\]](https://github.com/bloc97/CrossAttentionControl) ⭐ 1,336 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-10-18
+Google Research, 2 Aug 2022, [\[Code\]](https://github.com/bloc97/CrossAttentionControl) ⭐ 1,337 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-10-18
 
 [Improved Vector Quantized Diffusion Models](https://arxiv.org/abs/2205.16007) \
 University of Science and Technology of China, 31 May 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 487 | 🐛 17 | 🌐 Python | 📅 2022-06-30
@@ -308,7 +308,7 @@ Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]]
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 487 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,156 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,157 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
