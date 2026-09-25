@@ -180,7 +180,7 @@
                 "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 777,
+                "stars": 778,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4102,
+                "stars": 4104,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -328,7 +328,7 @@
                 "open_issues": 4,
                 "owner": "Mathux",
                 "repo": "TEMOS",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "human-motion",
                   "motion-generation",
@@ -642,7 +642,7 @@
                 "open_issues": 72,
                 "owner": "EvelynFan",
                 "repo": "FaceFormer",
-                "stars": 920,
+                "stars": 919,
                 "topics": [
                   "3d-face",
                   "3d-models",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34122,
+                "stars": 34123,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7732,
+                "stars": 7733,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1195,7 +1195,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14157,
+                "stars": 14156,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:50:03.468Z",
+    "last_updated": "2026-09-25T14:12:25.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
