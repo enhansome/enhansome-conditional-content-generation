@@ -180,7 +180,7 @@
                 "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 778,
+                "stars": 779,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -255,7 +255,7 @@
                 "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34123,
+                "stars": 34124,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7733,
+                "stars": 7734,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1098,7 +1098,7 @@
                 "open_issues": 21,
                 "owner": "bloc97",
                 "repo": "CrossAttentionControl",
-                "stars": 1337,
+                "stars": 1338,
                 "topics": [
                   "cross-attention",
                   "deep-learning",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:12:25.478Z",
+    "last_updated": "2026-09-26T13:24:46.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
@@ -1333,7 +1333,7 @@
       "open_issues": 2,
       "owner": "haofanwang",
       "repo": "awesome-conditional-content-generation",
-      "stars": 283,
+      "stars": 284,
       "topics": [
         "aigc",
         "awesome-list",
