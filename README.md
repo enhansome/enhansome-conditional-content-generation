@@ -99,10 +99,10 @@ Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motio
 Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2023-08-08
 
 [MotionBERT: Unified Pretraining for Human Motion Analysis](https://motionbert.github.io/) \
-SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,451 | 🐛 45 | 🌐 Python | 📅 2026-03-14
+SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,452 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,104 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,106 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
@@ -160,7 +160,7 @@ KTH Royal Institute of Technology, 17 Nov 2022
 York University, 23 Sep 2022, [\[Code\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 428 | 🐛 28 | 🌐 Python | 📅 2023-08-16
 
 [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://pantomatrix.github.io/BEAT/) \
-The University of Tokyo, ECCV 2022, [\[Code\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 | 🐛 4 | 📅 2025-06-26
+The University of Tokyo, ECCV 2022, [\[Code\]](https://github.com/PantoMatrix/BEAT) ⭐ 54 | 🐛 4 | 📅 2025-06-26
 
 [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://jixinya.github.io/projects/EAMM/)\
 Nanjing University, SIGGRAPH 2022, [\[Code\]](https://github.com/jixinya/EAMM/) ⭐ 201 | 🐛 15 | 🌐 Python | 📅 2023-04-28
@@ -229,7 +229,7 @@ MPI
 Stanford University, SIGGRAPH Asia 2022, [\[Code\]](https://github.com/onestarYX/summon) ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2024-10-03
 
 [TEACH: Temporal Action Compositions for 3D Humans](https://teach.is.tue.mpg.de/) \
-MPI, 3DV 2022, [\[Code\]](https://github.com/athn-nik/teach) ⭐ 398 | 🐛 2 | 🌐 Python | 📅 2025-11-05
+MPI, 3DV 2022, [\[Code\]](https://github.com/athn-nik/teach) ⭐ 399 | 🐛 2 | 🌐 Python | 📅 2025-11-05
 
 [Motion In-betweening via Two-stage Transformers](http://kunzhou.net/2022/motion-siga22.pdf) \
 Zhejiang University, SIGGRAPH Asia 2022
@@ -254,9 +254,9 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,373 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,372 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,124 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,123 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -302,7 +302,7 @@ University of Science and Technology of China, 31 May 2022, [\[Code\]](https://g
 Meta AI Research, 24 Mar 2022
 
 [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](https://diff-ae.github.io/) \
-Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]](https://github.com/phizaz/diffae) ⭐ 970 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-09-12
+Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]](https://github.com/phizaz/diffae) ⭐ 971 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-09-12
 
 [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf) \
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 487 | 🐛 17 | 🌐 Python | 📅 2022-06-30
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
