@@ -75,7 +75,7 @@ ENPC, CVPR'23
 Peking University, CVPR'23
 
 [Human Motion Diffusion as a Generative Prior](https://priormdm.github.io/priorMDM-page) \
-Anonymous Authors, [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 526 | 🐛 6 | 🌐 Python | 📅 2026-04-21
+Anonymous Authors, [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 527 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
 [T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://mael-zys.github.io/T2M-GPT/) \
 Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐ 779 | 🐛 19 | 🌐 Python | 📅 2024-09-17
@@ -99,10 +99,10 @@ Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motio
 Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2023-08-08
 
 [MotionBERT: Unified Pretraining for Human Motion Analysis](https://motionbert.github.io/) \
-SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,452 | 🐛 45 | 🌐 Python | 📅 2026-03-14
+SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,451 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,106 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,108 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
@@ -130,7 +130,7 @@ University of Maryland,, VR 2021, [\[Code\]](https://github.com/UttaranB127/Text
 
 ### Audio-Driven motion generation
 
-For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 837 | 🐛 1 | 📅 2025-11-19
+For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 836 | 🐛 1 | 📅 2025-11-19
 
 [Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://github.com/Advocate99/DiffGesture) ⭐ 265 | 🐛 0 | 🌐 Python | 📅 2026-03-18 \
 NTU, CVPR'23, [\[Code\]](https://github.com/Advocate99/DiffGesture) ⭐ 265 | 🐛 0 | 🌐 Python | 📅 2026-03-18
@@ -145,7 +145,7 @@ Macau University of Science and Technolog, 24 Jan 2023
 Tsinghua University, 10 Jan 2023
 
 [Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/) \
-University of Wrocław, 6 Jan 2023, [\[Incoming Code\]](https://github.com/MStypulkowski/diffused-heads) ⭐ 486 | 🐛 10 | 🌐 Python | 📅 2024-04-15
+University of Wrocław, 6 Jan 2023, [\[Incoming Code\]](https://github.com/MStypulkowski/diffused-heads) ⭐ 485 | 🐛 10 | 🌐 Python | 📅 2024-04-15
 
 [Generating Holistic 3D Human Motion from Speech](https://talkshow.is.tue.mpg.de/) \
 Max Planck Institute for Intelligent Systems, 8 Dev 2022
@@ -254,9 +254,9 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,372 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,374 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,123 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,125 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -290,13 +290,13 @@ University of Amsterdam, 12 Oct 2022
 Stanford University, NeurIPS 2022 Workshop, 6 Oct 2022
 
 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/) \
-Google Research, 25 Aug 2022, [\[Code\]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ⭐ 7,734 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2022-12-08
+Google Research, 25 Aug 2022, [\[Code\]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ⭐ 7,732 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2022-12-08
 
 [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) \
 Google Research, 2 Aug 2022, [\[Code\]](https://github.com/bloc97/CrossAttentionControl) ⭐ 1,338 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-10-18
 
 [Improved Vector Quantized Diffusion Models](https://arxiv.org/abs/2205.16007) \
-University of Science and Technology of China, 31 May 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 487 | 🐛 17 | 🌐 Python | 📅 2022-06-30
+University of Science and Technology of China, 31 May 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 486 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/pdf/2203.13131.pdf) \
 Meta AI Research, 24 Mar 2022
@@ -305,10 +305,10 @@ Meta AI Research, 24 Mar 2022
 Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]](https://github.com/phizaz/diffae) ⭐ 971 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-09-12
 
 [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf) \
-University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 487 | 🐛 17 | 🌐 Python | 📅 2022-06-30
+University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 486 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,156 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,157 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
