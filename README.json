@@ -89,7 +89,7 @@
                 "open_issues": 38,
                 "owner": "lisiyao21",
                 "repo": "Bailando",
-                "stars": 440,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7732,
+                "stars": 7731,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1145,7 +1145,7 @@
                 "open_issues": 52,
                 "owner": "konpatp",
                 "repo": "diffae",
-                "stars": 971,
+                "stars": 972,
                 "topics": [
                   "autoencoder",
                   "cvpr2022",
@@ -1195,7 +1195,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14157,
+                "stars": 14158,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:03:31.664Z",
+    "last_updated": "2026-09-29T15:08:50.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",

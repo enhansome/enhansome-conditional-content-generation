@@ -52,7 +52,7 @@ Tsinghua University, ACMMM'22
 Yonsei University, CVPR 2022, [\[Code\]](https://github.com/jw09191/MNET) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2022-07-06
 
 [Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://www.mmlab-ntu.com/project/bailando/index.html) \
-NTU, CVPR 2022 (Oral), [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 440 | 🐛 38 | 🌐 Python | 📅 2023-12-07
+NTU, CVPR 2022 (Oral), [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 439 | 🐛 38 | 🌐 Python | 📅 2023-12-07
 
 [Dance Style Transfer with Cross-modal Transformer](https://arxiv.org/abs/2208.09406) \
 KTH, 22 Aug 2022, [\[Upcoming Code\]](https://github.com/YIN95/cycledance-pytorch-lightning) ⭐ 9 | 🐛 0 | 📅 2022-08-19
@@ -290,7 +290,7 @@ University of Amsterdam, 12 Oct 2022
 Stanford University, NeurIPS 2022 Workshop, 6 Oct 2022
 
 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/) \
-Google Research, 25 Aug 2022, [\[Code\]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ⭐ 7,732 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2022-12-08
+Google Research, 25 Aug 2022, [\[Code\]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ⭐ 7,731 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2022-12-08
 
 [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) \
 Google Research, 2 Aug 2022, [\[Code\]](https://github.com/bloc97/CrossAttentionControl) ⭐ 1,338 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-10-18
@@ -302,13 +302,13 @@ University of Science and Technology of China, 31 May 2022, [\[Code\]](https://g
 Meta AI Research, 24 Mar 2022
 
 [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](https://diff-ae.github.io/) \
-Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]](https://github.com/phizaz/diffae) ⭐ 971 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-09-12
+Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]](https://github.com/phizaz/diffae) ⭐ 972 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-09-12
 
 [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf) \
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 486 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,157 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,158 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
