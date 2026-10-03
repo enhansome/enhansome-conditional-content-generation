@@ -478,7 +478,7 @@
                 "open_issues": 0,
                 "owner": "Advocate99",
                 "repo": "DiffGesture",
-                "stars": 265,
+                "stars": 264,
                 "topics": [
                   "aigc",
                   "animation",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:01.511Z",
+    "last_updated": "2026-10-03T13:57:44.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
