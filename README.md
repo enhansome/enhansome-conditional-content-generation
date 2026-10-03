@@ -157,7 +157,7 @@ NTU, 5 Dec 2022
 KTH Royal Institute of Technology, 17 Nov 2022
 
 [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) \
-York University, 23 Sep 2022, [\[Code\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 428 | 🐛 28 | 🌐 Python | 📅 2023-08-16
+York University, 23 Sep 2022, [\[Code\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 429 | 🐛 28 | 🌐 Python | 📅 2023-08-16
 
 [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://pantomatrix.github.io/BEAT/) \
 The University of Tokyo, ECCV 2022, [\[Code\]](https://github.com/PantoMatrix/BEAT) ⭐ 54 | 🐛 4 | 📅 2025-06-26
@@ -256,7 +256,7 @@ Adobe Research, 28 May 2020
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,375 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,124 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,121 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -308,7 +308,7 @@ Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]]
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 486 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,160 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,163 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
