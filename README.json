@@ -159,7 +159,7 @@
                 "open_issues": 6,
                 "owner": "priorMDM",
                 "repo": "priorMDM",
-                "stars": 527,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4109,
+                "stars": 4110,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34121,
+                "stars": 34122,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7730,
+                "stars": 7729,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1195,7 +1195,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14163,
+                "stars": 14162,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:57:44.306Z",
+    "last_updated": "2026-10-04T14:26:23.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
