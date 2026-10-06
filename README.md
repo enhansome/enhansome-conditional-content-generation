@@ -254,7 +254,7 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,377 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,376 | 🐛 29 | 🌐 HTML | 📅 2024-08-01
 
 [Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,123 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
@@ -290,7 +290,7 @@ University of Amsterdam, 12 Oct 2022
 Stanford University, NeurIPS 2022 Workshop, 6 Oct 2022
 
 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/) \
-Google Research, 25 Aug 2022, [\[Code\]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ⭐ 7,729 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2022-12-08
+Google Research, 25 Aug 2022, [\[Code\]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ⭐ 7,728 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2022-12-08
 
 [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) \
 Google Research, 2 Aug 2022, [\[Code\]](https://github.com/bloc97/CrossAttentionControl) ⭐ 1,338 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-10-18
@@ -308,7 +308,7 @@ Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]]
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 486 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,163 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,164 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

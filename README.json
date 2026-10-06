@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7729,
+                "stars": 7728,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1195,7 +1195,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14163,
+                "stars": 14164,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:27:37.342Z",
+    "last_updated": "2026-10-06T10:56:30.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
