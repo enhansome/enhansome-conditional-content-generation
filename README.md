@@ -102,7 +102,7 @@ Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916
 SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,456 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,115 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,116 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
@@ -188,7 +188,7 @@ UC Berkeley, CVPR 2019, [\[Code\]](https://github.com/amirbar/speech2gesture) �
 
 ### Human motion prediction
 
-For more recent more, you can find from [here](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md) ⭐ 348 | 🐛 0 | 🌐 TeX | 📅 2025-02-09
+For more recent more, you can find from [here](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md) ⭐ 349 | 🐛 0 | 🌐 TeX | 📅 2025-02-09
 
 [InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](https://sirui-xu.github.io/InterDiff/)\
 UIUC, ICCV 2023, [\[Code\]](https://github.com/Sirui-Xu/InterDiff) ⭐ 288 | 🐛 5 | 🌐 Python | 📅 2025-03-26
@@ -254,9 +254,9 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,376 | 🐛 30 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,375 | 🐛 30 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,126 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,129 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -316,7 +316,7 @@ Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) �
 Penn State University, CVPR 2024, [\[Code\]](https://github.com/merlresearch/TI2V-Zero) ⭐ 55 | 🐛 3 | 🌐 Python | 📅 2024-06-13
 
 [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/pdf/2303.13744) \
-Penn State University, CVPR 2023, [\[Code\]](https://github.com/nihaomiao/CVPR2023_LFDM) ⭐ 470 | 🐛 6 | 🌐 Python | 📅 2024-06-18
+Penn State University, CVPR 2023, [\[Code\]](https://github.com/nihaomiao/CVPR2023_LFDM) ⭐ 471 | 🐛 6 | 🌐 Python | 📅 2024-06-18
 
 [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/) \
 Meta AI, 2023, [\[Code\]](https://github.com/Make-A-Video3D/Make-A-Video3D.github.io) ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2023-01-30
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
