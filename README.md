@@ -84,7 +84,7 @@ Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐
 Beihang University, 10 Jan 2023
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 748 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 749 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels](https://arxiv.org/abs/2212.05897) \
 Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/TaeryungLee/MultiAct_RELEASE) ⭐ 62 | 🐛 3 | 🌐 Python | 📅 2023-01-19
@@ -93,7 +93,7 @@ Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/Taeryun
 Max Planck Institute for Informatics, 8 Dec 2022
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 748 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 749 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [UDE: A Unified Driving Engine for Human Motion Generation](https://arxiv.org/pdf/2211.16016.pdf) \
 Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2023-08-08
@@ -102,7 +102,7 @@ Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916
 SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,454 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,114 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,115 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
@@ -114,13 +114,13 @@ NTU, 22 Aug 2022, [\[Code\]](https://github.com/mingyuan-zhang/MotionDiffuse) �
 MPI, ECCV 2022 (Oral), [\[Code\]](https://github.com/Mathux/TEMOS) ⭐ 456 | 🐛 4 | 🌐 Python | 📅 2023-12-13
 
 [GIMO: Gaze-Informed Human Motion Prediction in Context](https://geometry.stanford.edu/projects/gimo/) \
-Stanford University, ECCV 2022, [\[Code\]](https://github.com/y-zheng18/GIMO) ⭐ 86 | 🐛 7 | 🌐 Python | 📅 2022-12-16
+Stanford University, ECCV 2022, [\[Code\]](https://github.com/y-zheng18/GIMO) ⭐ 87 | 🐛 7 | 🌐 Python | 📅 2022-12-16
 
 [MotionCLIP: Exposing Human Motion Generation to CLIP Space](https://guytevet.github.io/motionclip-page/) \
 Tel Aviv University, ECCV 2022, [\[Code\]](https://github.com/GuyTevet/MotionCLIP) ⭐ 503 | 🐛 23 | 🌐 Python | 📅 2023-12-18
 
 [Generating Diverse and Natural 3D Human Motions from Text](https://ericguo5513.github.io/text-to-motion/) \
-University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 720 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 721 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://hongfz16.github.io/projects/AvatarCLIP.html) \
 NTU, SIGGRAPH 2022, [\[Code\]](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,101 | 🐛 19 | 🌐 Python | 📅 2023-02-15
@@ -136,7 +136,7 @@ For more recent paper, you can find from [here](https://github.com/YunjinPark/aw
 NTU, CVPR'23, [\[Code\]](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 0 | 🌐 Python | 📅 2026-03-18
 
 [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://geneface.github.io/) \
-Zhejiang University, ICLR'23, [\[Code\]](https://github.com/yerfor/GeneFace) ⭐ 2,655 | 🐛 102 | 🌐 Python | 📅 2024-10-18
+Zhejiang University, ICLR'23, [\[Code\]](https://github.com/yerfor/GeneFace) ⭐ 2,654 | 🐛 102 | 🌐 Python | 📅 2024-10-18
 
 [DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://arxiv.org/abs/2301.10047) \
 Macau University of Science and Technolog, 24 Jan 2023
@@ -256,7 +256,7 @@ Adobe Research, 28 May 2020
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,375 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,131 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,130 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

@@ -205,7 +205,7 @@
                 "open_issues": 39,
                 "owner": "ChenFengYe",
                 "repo": "motion-latent-diffusion",
-                "stars": 748,
+                "stars": 749,
                 "topics": [
                   "3d-generation",
                   "cvpr2023",
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4114,
+                "stars": 4115,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -353,7 +353,7 @@
                 "open_issues": 7,
                 "owner": "y-zheng18",
                 "repo": "GIMO",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -395,7 +395,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 720,
+                "stars": 721,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -506,7 +506,7 @@
                 "open_issues": 102,
                 "owner": "yerfor",
                 "repo": "GeneFace",
-                "stars": 2655,
+                "stars": 2654,
                 "topics": [
                   "nerf",
                   "pytorch",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34131,
+                "stars": 34130,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:49:15.233Z",
+    "last_updated": "2026-10-11T15:08:27.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
