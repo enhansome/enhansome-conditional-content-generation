@@ -75,7 +75,7 @@ ENPC, CVPR'23
 Peking University, CVPR'23
 
 [Human Motion Diffusion as a Generative Prior](https://priormdm.github.io/priorMDM-page) \
-Anonymous Authors, [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 527 | 🐛 6 | 🌐 Python | 📅 2026-04-21
+Anonymous Authors, [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 529 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
 [T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://mael-zys.github.io/T2M-GPT/) \
 Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐ 781 | 🐛 19 | 🌐 Python | 📅 2024-09-17
@@ -84,7 +84,7 @@ Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐
 Beihang University, 10 Jan 2023
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 750 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 751 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels](https://arxiv.org/abs/2212.05897) \
 Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/TaeryungLee/MultiAct_RELEASE) ⭐ 62 | 🐛 3 | 🌐 Python | 📅 2023-01-19
@@ -93,22 +93,22 @@ Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/Taeryun
 Max Planck Institute for Informatics, 8 Dec 2022
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 750 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 751 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [UDE: A Unified Driving Engine for Human Motion Generation](https://arxiv.org/pdf/2211.16016.pdf) \
 Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2023-08-08
 
 [MotionBERT: Unified Pretraining for Human Motion Analysis](https://motionbert.github.io/) \
-SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,454 | 🐛 45 | 🌐 Python | 📅 2026-03-14
+SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,455 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,118 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,119 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
 
 [MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html) \
-NTU, 22 Aug 2022, [\[Code\]](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 984 | 🐛 27 | 🌐 Python | 📅 2024-07-19
+NTU, 22 Aug 2022, [\[Code\]](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 985 | 🐛 27 | 🌐 Python | 📅 2024-07-19
 
 [TEMOS: Generating diverse human motions from textual descriptions](https://mathis.petrovich.fr/temos/) \
 MPI, ECCV 2022 (Oral), [\[Code\]](https://github.com/Mathux/TEMOS) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2023-12-13
@@ -197,7 +197,7 @@ UIUC, ICCV 2023, [\[Code\]](https://github.com/Sirui-Xu/InterDiff) ⭐ 287 | �
 UIUC, ICLR 2023 (Spotlight), [\[Code\]](https://github.com/Sirui-Xu/DuMMF) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2023-09-01
 
 [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://lhchen.top/Human-MAC/)\
-Tsinghua University, ICCV 2023, [\[Code\]](https://github.com/LinghaoChan/HumanMAC) ⭐ 327 | 🐛 6 | 🌐 Python | 📅 2024-05-05
+Tsinghua University, ICCV 2023, [\[Code\]](https://github.com/LinghaoChan/HumanMAC) ⭐ 328 | 🐛 6 | 🌐 Python | 📅 2024-05-05
 
 [BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://barquerogerman.github.io/BeLFusion/) \
 University of Barcelona, 25 Nov 2022, [\[Upcoming Code\]](https://github.com/BarqueroGerman/BeLFusion) ⭐ 126 | 🐛 3 | 🌐 Python | 📅 2023-10-09
@@ -256,7 +256,7 @@ Adobe Research, 28 May 2020
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,378 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,125 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,124 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -308,7 +308,7 @@ Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]]
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 486 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,167 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,170 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
