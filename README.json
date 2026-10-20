@@ -159,7 +159,7 @@
                 "open_issues": 6,
                 "owner": "priorMDM",
                 "repo": "priorMDM",
-                "stars": 529,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -180,7 +180,7 @@
                 "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 782,
+                "stars": 781,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -531,7 +531,7 @@
                 "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "character-animation"
                 ]
@@ -749,7 +749,7 @@
                 "open_issues": 5,
                 "owner": "Sirui-Xu",
                 "repo": "InterDiff",
-                "stars": 287,
+                "stars": 286,
                 "topics": [
                   "3d-human-pose",
                   "6d",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34123,
+                "stars": 34126,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7726,
+                "stars": 7727,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1192,7 +1192,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-02-29T05:29:47Z",
-                "open_issues": 293,
+                "open_issues": 294,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
                 "stars": 14175,
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:54:12.280Z",
+    "last_updated": "2026-10-20T13:52:56.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
