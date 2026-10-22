@@ -52,7 +52,7 @@ Tsinghua University, ACMMM'22
 Yonsei University, CVPR 2022, [\[Code\]](https://github.com/jw09191/MNET) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2022-07-06
 
 [Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://www.mmlab-ntu.com/project/bailando/index.html) \
-NTU, CVPR 2022 (Oral), [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 441 | 🐛 38 | 🌐 Python | 📅 2023-12-07
+NTU, CVPR 2022 (Oral), [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 442 | 🐛 38 | 🌐 Python | 📅 2023-12-07
 
 [Dance Style Transfer with Cross-modal Transformer](https://arxiv.org/abs/2208.09406) \
 KTH, 22 Aug 2022, [\[Upcoming Code\]](https://github.com/YIN95/cycledance-pytorch-lightning) ⭐ 9 | 🐛 0 | 📅 2022-08-19
@@ -84,7 +84,7 @@ Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐
 Beihang University, 10 Jan 2023
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 751 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 753 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels](https://arxiv.org/abs/2212.05897) \
 Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/TaeryungLee/MultiAct_RELEASE) ⭐ 62 | 🐛 3 | 🌐 Python | 📅 2023-01-19
@@ -93,16 +93,16 @@ Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/Taeryun
 Max Planck Institute for Informatics, 8 Dec 2022
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 751 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 753 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [UDE: A Unified Driving Engine for Human Motion Generation](https://arxiv.org/pdf/2211.16016.pdf) \
-Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2023-08-08
+Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 58 | 🐛 4 | 🌐 Python | 📅 2023-08-08
 
 [MotionBERT: Unified Pretraining for Human Motion Analysis](https://motionbert.github.io/) \
-SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,456 | 🐛 45 | 🌐 Python | 📅 2026-03-14
+SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,458 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,121 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,122 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
@@ -117,7 +117,7 @@ MPI, ECCV 2022 (Oral), [\[Code\]](https://github.com/Mathux/TEMOS) ⭐ 457 | �
 Stanford University, ECCV 2022, [\[Code\]](https://github.com/y-zheng18/GIMO) ⭐ 87 | 🐛 7 | 🌐 Python | 📅 2022-12-16
 
 [MotionCLIP: Exposing Human Motion Generation to CLIP Space](https://guytevet.github.io/motionclip-page/) \
-Tel Aviv University, ECCV 2022, [\[Code\]](https://github.com/GuyTevet/MotionCLIP) ⭐ 503 | 🐛 23 | 🌐 Python | 📅 2023-12-18
+Tel Aviv University, ECCV 2022, [\[Code\]](https://github.com/GuyTevet/MotionCLIP) ⭐ 504 | 🐛 23 | 🌐 Python | 📅 2023-12-18
 
 [Generating Diverse and Natural 3D Human Motions from Text](https://ericguo5513.github.io/text-to-motion/) \
 University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 721 | 🐛 24 | 🌐 Python | 📅 2024-08-18
@@ -191,7 +191,7 @@ UC Berkeley, CVPR 2019, [\[Code\]](https://github.com/amirbar/speech2gesture) �
 For more recent more, you can find from [here](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md) ⭐ 349 | 🐛 0 | 🌐 TeX | 📅 2025-02-09
 
 [InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](https://sirui-xu.github.io/InterDiff/)\
-UIUC, ICCV 2023, [\[Code\]](https://github.com/Sirui-Xu/InterDiff) ⭐ 286 | 🐛 5 | 🌐 Python | 📅 2025-03-26
+UIUC, ICCV 2023, [\[Code\]](https://github.com/Sirui-Xu/InterDiff) ⭐ 287 | 🐛 5 | 🌐 Python | 📅 2025-03-26
 
 [Stochastic Multi-Person 3D Motion Forecasting](https://sirui-xu.github.io/DuMMF/)\
 UIUC, ICLR 2023 (Spotlight), [\[Code\]](https://github.com/Sirui-Xu/DuMMF) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2023-09-01
@@ -256,7 +256,7 @@ Adobe Research, 28 May 2020
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,380 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,129 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,130 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -308,7 +308,7 @@ Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]]
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 485 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,176 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,175 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
