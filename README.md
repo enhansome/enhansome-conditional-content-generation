@@ -102,13 +102,13 @@ Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916
 SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,458 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,122 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,123 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
 
 [MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html) \
-NTU, 22 Aug 2022, [\[Code\]](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 985 | 🐛 27 | 🌐 Python | 📅 2024-07-19
+NTU, 22 Aug 2022, [\[Code\]](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 983 | 🐛 27 | 🌐 Python | 📅 2024-07-19
 
 [TEMOS: Generating diverse human motions from textual descriptions](https://mathis.petrovich.fr/temos/) \
 MPI, ECCV 2022 (Oral), [\[Code\]](https://github.com/Mathux/TEMOS) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2023-12-13
@@ -123,17 +123,17 @@ Tel Aviv University, ECCV 2022, [\[Code\]](https://github.com/GuyTevet/MotionCLI
 University of Alberta, CVPR 2022, [\[Code\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 721 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://hongfz16.github.io/projects/AvatarCLIP.html) \
-NTU, SIGGRAPH 2022, [\[Code\]](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,102 | 🐛 19 | 🌐 Python | 📅 2023-02-15
+NTU, SIGGRAPH 2022, [\[Code\]](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,103 | 🐛 19 | 🌐 Python | 📅 2023-02-15
 
 [Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents](https://arxiv.org/abs/2101.11101) \
 University of Maryland,, VR 2021, [\[Code\]](https://github.com/UttaranB127/Text2Gestures) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2021-11-16
 
 ### Audio-Driven motion generation
 
-For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 835 | 🐛 2 | 📅 2025-11-19
+For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 836 | 🐛 2 | 📅 2025-11-19
 
-[Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 0 | 🌐 Python | 📅 2026-03-18 \
-NTU, CVPR'23, [\[Code\]](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 0 | 🌐 Python | 📅 2026-03-18
+[Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 1 | 🌐 Python | 📅 2026-03-18 \
+NTU, CVPR'23, [\[Code\]](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 1 | 🌐 Python | 📅 2026-03-18
 
 [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://geneface.github.io/) \
 Zhejiang University, ICLR'23, [\[Code\]](https://github.com/yerfor/GeneFace) ⭐ 2,656 | 🐛 102 | 🌐 Python | 📅 2024-10-18
@@ -160,7 +160,7 @@ KTH Royal Institute of Technology, 17 Nov 2022
 York University, 23 Sep 2022, [\[Code\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 433 | 🐛 28 | 🌐 Python | 📅 2023-08-16
 
 [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://pantomatrix.github.io/BEAT/) \
-The University of Tokyo, ECCV 2022, [\[Code\]](https://github.com/PantoMatrix/BEAT) ⭐ 54 | 🐛 4 | 📅 2025-06-26
+The University of Tokyo, ECCV 2022, [\[Code\]](https://github.com/PantoMatrix/BEAT) ⭐ 53 | 🐛 4 | 📅 2025-06-26
 
 [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://jixinya.github.io/projects/EAMM/)\
 Nanjing University, SIGGRAPH 2022, [\[Code\]](https://github.com/jixinya/EAMM/) ⭐ 201 | 🐛 15 | 🌐 Python | 📅 2023-04-28
@@ -229,7 +229,7 @@ MPI
 Stanford University, SIGGRAPH Asia 2022, [\[Code\]](https://github.com/onestarYX/summon) ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2024-10-03
 
 [TEACH: Temporal Action Compositions for 3D Humans](https://teach.is.tue.mpg.de/) \
-MPI, 3DV 2022, [\[Code\]](https://github.com/athn-nik/teach) ⭐ 400 | 🐛 2 | 🌐 Python | 📅 2025-11-05
+MPI, 3DV 2022, [\[Code\]](https://github.com/athn-nik/teach) ⭐ 401 | 🐛 2 | 🌐 Python | 📅 2025-11-05
 
 [Motion In-betweening via Two-stage Transformers](http://kunzhou.net/2022/motion-siga22.pdf) \
 Zhejiang University, SIGGRAPH Asia 2022
@@ -254,9 +254,9 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,380 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,382 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,130 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,127 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -308,7 +308,7 @@ Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [\[Code\]]
 University of Science and Technology of China, CVPR 2022, [\[Code\]](https://github.com/cientgu/VQ-Diffusion) ⭐ 485 | 🐛 17 | 🌐 Python | 📅 2022-06-30
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
-Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,175 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29
+Runway ML, CVPR 2022, [\[Code\]](https://github.com/CompVis/latent-diffusion) ⭐ 14,176 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29
 
 ### Text-Video Generation
 
@@ -331,7 +331,7 @@ The Hong Kong University of Science and Technology, 23 Nov 2022, [\[Upcoming Cod
 ByteDance Inc, 20 Nov 2022
 
 [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/) \
-NVIDIA Research, ECCV 2022 (Oral), [\[Code\]](https://github.com/omerbt/Text2LIVE) ⭐ 884 | 🐛 21 | 🌐 Python | 📅 2023-03-09
+NVIDIA Research, ECCV 2022 (Oral), [\[Code\]](https://github.com/omerbt/Text2LIVE) ⭐ 885 | 🐛 21 | 🌐 Python | 📅 2023-03-09
 
 ### Text-3D Image Generation
 
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
