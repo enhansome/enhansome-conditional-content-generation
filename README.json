@@ -159,7 +159,7 @@
                 "open_issues": 6,
                 "owner": "priorMDM",
                 "repo": "priorMDM",
-                "stars": 528,
+                "stars": 529,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4126,
+                "stars": 4127,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -642,7 +642,7 @@
                 "open_issues": 72,
                 "owner": "EvelynFan",
                 "repo": "FaceFormer",
-                "stars": 918,
+                "stars": 919,
                 "topics": [
                   "3d-face",
                   "3d-models",
@@ -1195,7 +1195,7 @@
                 "open_issues": 295,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14181,
+                "stars": 14180,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T15:30:53.781Z",
+    "last_updated": "2026-10-27T14:57:13.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
