@@ -255,7 +255,7 @@
                 "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1460,
+                "stars": 1461,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4129,
+                "stars": 4130,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -395,7 +395,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 721,
+                "stars": 722,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -419,7 +419,7 @@
                 "open_issues": 19,
                 "owner": "hongfz16",
                 "repo": "AvatarCLIP",
-                "stars": 1103,
+                "stars": 1104,
                 "topics": [
                   "3d-generation",
                   "motion-generation",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34135,
+                "stars": 34137,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 21,
                 "owner": "bloc97",
                 "repo": "CrossAttentionControl",
-                "stars": 1337,
+                "stars": 1336,
                 "topics": [
                   "cross-attention",
                   "deep-learning",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:38:55.697Z",
+    "last_updated": "2026-10-30T15:22:23.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
