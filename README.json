@@ -138,7 +138,7 @@
                 "open_issues": 14,
                 "owner": "MotrixLab",
                 "repo": "ReMoDiffuse",
-                "stars": 381,
+                "stars": 382,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -205,7 +205,7 @@
                 "open_issues": 39,
                 "owner": "ChenFengYe",
                 "repo": "motion-latent-diffusion",
-                "stars": 752,
+                "stars": 753,
                 "topics": [
                   "3d-generation",
                   "cvpr2023",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34144,
+                "stars": 34149,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 295,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14184,
+                "stars": 14185,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1295,7 +1295,7 @@
                 "open_issues": 21,
                 "owner": "omerbt",
                 "repo": "Text2LIVE",
-                "stars": 885,
+                "stars": 884,
                 "topics": [
                   "clip",
                   "eccv2022",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:52:40.550Z",
+    "last_updated": "2026-11-03T16:38:45.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
