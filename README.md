@@ -52,7 +52,7 @@ Tsinghua University, ACMMM'22
 Yonsei University, CVPR 2022, [\[Code\]](https://github.com/jw09191/MNET) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2022-07-06
 
 [Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://www.mmlab-ntu.com/project/bailando/index.html) \
-NTU, CVPR 2022 (Oral), [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 442 | 🐛 38 | 🌐 Python | 📅 2023-12-07
+NTU, CVPR 2022 (Oral), [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 443 | 🐛 38 | 🌐 Python | 📅 2023-12-07
 
 [Dance Style Transfer with Cross-modal Transformer](https://arxiv.org/abs/2208.09406) \
 KTH, 22 Aug 2022, [\[Upcoming Code\]](https://github.com/YIN95/cycledance-pytorch-lightning) ⭐ 9 | 🐛 0 | 📅 2022-08-19
@@ -96,7 +96,7 @@ Max Planck Institute for Informatics, 8 Dec 2022
 Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 753 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [UDE: A Unified Driving Engine for Human Motion Generation](https://arxiv.org/pdf/2211.16016.pdf) \
-Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 58 | 🐛 4 | 🌐 Python | 📅 2023-08-08
+Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 59 | 🐛 4 | 🌐 Python | 📅 2023-08-08
 
 [MotionBERT: Unified Pretraining for Human Motion Analysis](https://motionbert.github.io/) \
 SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,462 | 🐛 45 | 🌐 Python | 📅 2026-03-14
@@ -108,7 +108,7 @@ Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-d
 Korea University, 1 Sep 2022
 
 [MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html) \
-NTU, 22 Aug 2022, [\[Code\]](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 984 | 🐛 27 | 🌐 Python | 📅 2024-07-19
+NTU, 22 Aug 2022, [\[Code\]](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 985 | 🐛 27 | 🌐 Python | 📅 2024-07-19
 
 [TEMOS: Generating diverse human motions from textual descriptions](https://mathis.petrovich.fr/temos/) \
 MPI, ECCV 2022 (Oral), [\[Code\]](https://github.com/Mathux/TEMOS) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2023-12-13
@@ -254,9 +254,9 @@ Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
-For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,381 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,380 | 🐛 31 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,149 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,152 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
