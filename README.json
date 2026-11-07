@@ -110,7 +110,7 @@
                 "open_issues": 51,
                 "owner": "google-research",
                 "repo": "mint",
-                "stars": 561,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4131,
+                "stars": 4130,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -302,7 +302,7 @@
                 "open_issues": 27,
                 "owner": "MotrixLab",
                 "repo": "MotionDiffuse",
-                "stars": 986,
+                "stars": 987,
                 "topics": [
                   "3d-generation",
                   "diffusion-model",
@@ -506,7 +506,7 @@
                 "open_issues": 102,
                 "owner": "yerfor",
                 "repo": "GeneFace",
-                "stars": 2657,
+                "stars": 2658,
                 "topics": [
                   "nerf",
                   "pytorch",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34148,
+                "stars": 34151,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 295,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14186,
+                "stars": 14187,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:20:17.485Z",
+    "last_updated": "2026-11-07T15:13:52.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
@@ -1330,7 +1330,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-07-26T07:12:57Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "haofanwang",
       "repo": "awesome-conditional-content-generation",
       "stars": 284,
