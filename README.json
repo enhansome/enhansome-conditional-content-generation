@@ -395,7 +395,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34153,
+                "stars": 34154,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7730,
+                "stars": 7731,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:37:38.572Z",
+    "last_updated": "2026-11-11T16:39:45.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
