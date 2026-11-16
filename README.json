@@ -374,7 +374,7 @@
                 "open_issues": 23,
                 "owner": "GuyTevet",
                 "repo": "MotionCLIP",
-                "stars": 506,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -395,7 +395,7 @@
                 "open_issues": 24,
                 "owner": "EricGuo5513",
                 "repo": "text-to-motion",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "motion-generation",
                   "pytorch-implementation"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7730,
+                "stars": 7729,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1192,10 +1192,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-02-29T05:29:47Z",
-                "open_issues": 295,
+                "open_issues": 296,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14183,
+                "stars": 14189,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:54:17.391Z",
+    "last_updated": "2026-11-16T18:57:41.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
