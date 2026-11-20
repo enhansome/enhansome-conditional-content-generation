@@ -89,7 +89,7 @@
                 "open_issues": 38,
                 "owner": "lisiyao21",
                 "repo": "Bailando",
-                "stars": 445,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -180,7 +180,7 @@
                 "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 782,
+                "stars": 783,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -255,7 +255,7 @@
                 "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1467,
+                "stars": 1466,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -374,7 +374,7 @@
                 "open_issues": 23,
                 "owner": "GuyTevet",
                 "repo": "MotionCLIP",
-                "stars": 507,
+                "stars": 506,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -419,7 +419,7 @@
                 "open_issues": 19,
                 "owner": "hongfz16",
                 "repo": "AvatarCLIP",
-                "stars": 1102,
+                "stars": 1101,
                 "topics": [
                   "3d-generation",
                   "motion-generation",
@@ -506,7 +506,7 @@
                 "open_issues": 102,
                 "owner": "yerfor",
                 "repo": "GeneFace",
-                "stars": 2658,
+                "stars": 2656,
                 "topics": [
                   "nerf",
                   "pytorch",
@@ -642,7 +642,7 @@
                 "open_issues": 72,
                 "owner": "EvelynFan",
                 "repo": "FaceFormer",
-                "stars": 919,
+                "stars": 920,
                 "topics": [
                   "3d-face",
                   "3d-models",
@@ -721,7 +721,7 @@
                 "open_issues": 14,
                 "owner": "amirbar",
                 "repo": "speech2gesture",
-                "stars": 395,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -804,7 +804,7 @@
                 "open_issues": 6,
                 "owner": "LinghaoChan",
                 "repo": "HumanMAC",
-                "stars": 330,
+                "stars": 329,
                 "topics": [
                   "diffusion-models",
                   "diversity",
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7728,
+                "stars": 7727,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1098,7 +1098,7 @@
                 "open_issues": 21,
                 "owner": "bloc97",
                 "repo": "CrossAttentionControl",
-                "stars": 1335,
+                "stars": 1334,
                 "topics": [
                   "cross-attention",
                   "deep-learning",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:44:05.268Z",
+    "last_updated": "2026-11-20T17:21:49.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
