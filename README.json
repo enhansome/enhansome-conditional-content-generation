@@ -255,7 +255,7 @@
                 "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1466,
+                "stars": 1467,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -281,7 +281,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4151,
+                "stars": 4155,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34157,
+                "stars": 34158,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 138,
                 "owner": "XavierXiao",
                 "repo": "Dreambooth-Stable-Diffusion",
-                "stars": 7727,
+                "stars": 7726,
                 "topics": [
                   "pytorch",
                   "pytorch-lightning",
@@ -1195,7 +1195,7 @@
                 "open_issues": 296,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14195,
+                "stars": 14194,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1295,7 +1295,7 @@
                 "open_issues": 21,
                 "owner": "omerbt",
                 "repo": "Text2LIVE",
-                "stars": 884,
+                "stars": 885,
                 "topics": [
                   "clip",
                   "eccv2022",
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:26:32.648Z",
+    "last_updated": "2026-11-22T16:43:12.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
@@ -1333,7 +1333,7 @@
       "open_issues": 3,
       "owner": "haofanwang",
       "repo": "awesome-conditional-content-generation",
-      "stars": 284,
+      "stars": 285,
       "topics": [
         "aigc",
         "awesome-list",
