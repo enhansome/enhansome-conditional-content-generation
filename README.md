@@ -78,13 +78,13 @@ Peking University, CVPR'23
 Anonymous Authors, [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 530 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
 [T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://mael-zys.github.io/T2M-GPT/) \
-Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐ 783 | 🐛 19 | 🌐 Python | 📅 2024-09-17
+Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐ 784 | 🐛 19 | 🌐 Python | 📅 2024-09-17
 
 [Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2301.03949) \
 Beihang University, 10 Jan 2023
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 754 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 755 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels](https://arxiv.org/abs/2212.05897) \
 Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/TaeryungLee/MultiAct_RELEASE) ⭐ 62 | 🐛 3 | 🌐 Python | 📅 2023-01-19
@@ -93,16 +93,16 @@ Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/Taeryun
 Max Planck Institute for Informatics, 8 Dec 2022
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 754 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 755 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [UDE: A Unified Driving Engine for Human Motion Generation](https://arxiv.org/pdf/2211.16016.pdf) \
 Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 59 | 🐛 4 | 🌐 Python | 📅 2023-08-08
 
 [MotionBERT: Unified Pretraining for Human Motion Analysis](https://motionbert.github.io/) \
-SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,467 | 🐛 45 | 🌐 Python | 📅 2026-03-14
+SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,466 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,155 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,156 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
@@ -111,7 +111,7 @@ Korea University, 1 Sep 2022
 NTU, 22 Aug 2022, [\[Code\]](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 987 | 🐛 27 | 🌐 Python | 📅 2024-07-19
 
 [TEMOS: Generating diverse human motions from textual descriptions](https://mathis.petrovich.fr/temos/) \
-MPI, ECCV 2022 (Oral), [\[Code\]](https://github.com/Mathux/TEMOS) ⭐ 456 | 🐛 4 | 🌐 Python | 📅 2023-12-13
+MPI, ECCV 2022 (Oral), [\[Code\]](https://github.com/Mathux/TEMOS) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2023-12-13
 
 [GIMO: Gaze-Informed Human Motion Prediction in Context](https://geometry.stanford.edu/projects/gimo/) \
 Stanford University, ECCV 2022, [\[Code\]](https://github.com/y-zheng18/GIMO) ⭐ 87 | 🐛 7 | 🌐 Python | 📅 2022-12-16
@@ -132,8 +132,8 @@ University of Maryland,, VR 2021, [\[Code\]](https://github.com/UttaranB127/Text
 
 For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 836 | 🐛 2 | 📅 2025-11-19
 
-[Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 1 | 🌐 Python | 📅 2026-03-18 \
-NTU, CVPR'23, [\[Code\]](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 1 | 🌐 Python | 📅 2026-03-18
+[Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 0 | 🌐 Python | 📅 2026-03-18 \
+NTU, CVPR'23, [\[Code\]](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 0 | 🌐 Python | 📅 2026-03-18
 
 [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://geneface.github.io/) \
 Zhejiang University, ICLR'23, [\[Code\]](https://github.com/yerfor/GeneFace) ⭐ 2,656 | 🐛 102 | 🌐 Python | 📅 2024-10-18
@@ -172,7 +172,7 @@ The Chinese University of Hong Kong, CVPR 2022, [\[Code\]](https://github.com/al
 Alibaba DAMO Academy, CVPR 2022, [\[Code\]](https://github.com/akira-l/SEEG) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2022-12-03
 
 [FaceFormer: Speech-Driven 3D Facial Animation with Transformers](https://evelynfan.github.io/audio2face/) \
-The University of Hong Kong, CVPR 2022, [\[Code\]](https://github.com/EvelynFan/FaceFormer) ⭐ 920 | 🐛 72 | 🌐 Python | 📅 2023-08-22
+The University of Hong Kong, CVPR 2022, [\[Code\]](https://github.com/EvelynFan/FaceFormer) ⭐ 919 | 🐛 72 | 🌐 Python | 📅 2023-08-22
 
 [Freeform Body Motion Generation from Speech](https://arxiv.org/abs/2203.02291) \
 JD AI Research, 4 Mar 2022, [\[Code\]](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) ⭐ 209 | 🐛 22 | 🌐 Python | 📅 2022-11-12
@@ -256,7 +256,7 @@ Adobe Research, 28 May 2020
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image) ⭐ 12,384 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
 
-[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,158 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) ⭐ 34,159 | 🐛 461 | 🌐 Python | 📅 2024-02-25 \
 Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
