@@ -255,7 +255,7 @@
                 "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1466,
+                "stars": 1468,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -1051,7 +1051,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34164,
+                "stars": 34160,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1195,7 +1195,7 @@
                 "open_issues": 296,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14195,
+                "stars": 14196,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:11.554Z"
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:44:24.933Z",
+    "last_updated": "2026-11-25T18:51:47.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
