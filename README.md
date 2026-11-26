@@ -75,7 +75,7 @@ ENPC, CVPR'23
 Peking University, CVPR'23
 
 [Human Motion Diffusion as a Generative Prior](https://priormdm.github.io/priorMDM-page) \
-Anonymous Authors, [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 530 | 🐛 6 | 🌐 Python | 📅 2026-04-21
+Anonymous Authors, [\[Code\]](https://github.com/priorMDM/priorMDM) ⭐ 528 | 🐛 6 | 🌐 Python | 📅 2026-04-21
 
 [T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://mael-zys.github.io/T2M-GPT/) \
 Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐ 784 | 🐛 19 | 🌐 Python | 📅 2024-09-17
@@ -84,7 +84,7 @@ Tencent AI Lab, 16 Jan 2023, [\[Code\]](https://github.com/Mael-zys/T2M-GPT) ⭐
 Beihang University, 10 Jan 2023
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 755 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent, 8 Dec 2022, [\[Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 754 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels](https://arxiv.org/abs/2212.05897) \
 Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/TaeryungLee/MultiAct_RELEASE) ⭐ 62 | 🐛 3 | 🌐 Python | 📅 2023-01-19
@@ -93,7 +93,7 @@ Seoul National University, AAAI 2023 Oral, [\[Code\]](https://github.com/Taeryun
 Max Planck Institute for Informatics, 8 Dec 2022
 
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
-Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 755 | 🐛 39 | 🌐 Python | 📅 2023-07-11
+Tencent PCG, 8 Dec 2022, [\[Upcoming Code\]](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 754 | 🐛 39 | 🌐 Python | 📅 2023-07-11
 
 [UDE: A Unified Driving Engine for Human Motion Generation](https://arxiv.org/pdf/2211.16016.pdf) \
 Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916/UDE/) ⭐ 59 | 🐛 4 | 🌐 Python | 📅 2023-08-08
@@ -102,7 +102,7 @@ Xiaobing Inc, 29 Nov 2022, [\[Upcoming Code\]](https://github.com/zixiangzhou916
 SenseTime Research, 12 Oct 2022, [\[Code\]](https://github.com/Walter0807/MotionBERT) ⭐ 1,468 | 🐛 45 | 🌐 Python | 📅 2026-03-14
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page) \
-Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,158 | 🐛 69 | 🌐 Python | 📅 2025-10-01
+Tel Aviv University, 3 Oct 2022, [\[Code\]](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,159 | 🐛 69 | 🌐 Python | 📅 2025-10-01
 
 [FLAME: Free-form Language-based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349) \
 Korea University, 1 Sep 2022
@@ -178,7 +178,7 @@ The University of Hong Kong, CVPR 2022, [\[Code\]](https://github.com/EvelynFan/
 JD AI Research, 4 Mar 2022, [\[Code\]](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) ⭐ 209 | 🐛 22 | 🌐 Python | 📅 2022-11-12
 
 [Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders](https://jingli513.github.io/audio2gestures/) \
-Tencent AI Lab, ICCV 2021, [\[Code\]](https://github.com/JingLi513/Audio2Gestures) ⭐ 151 | 🐛 16 | 🌐 Python | 📅 2024-01-01
+Tencent AI Lab, ICCV 2021, [\[Code\]](https://github.com/JingLi513/Audio2Gestures) ⭐ 152 | 🐛 16 | 🌐 Python | 📅 2024-01-01
 
 [Learning Speech-driven 3D Conversational Gestures from Video](https://arxiv.org/abs/2102.06837) \
 Max Planck Institute for Informatics, IVA 2021, [\[Code\]](http://gvv.mpi-inf.mpg.de/projects/3d_speech_driven_gesture/)
@@ -343,4 +343,4 @@ Google Research, 29 Sep 2022
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
